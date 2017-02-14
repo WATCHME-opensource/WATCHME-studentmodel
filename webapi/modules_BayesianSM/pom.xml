@@ -1,0 +1,182 @@
+<!--
+  ~ Project: WATCHME Consortium, http://www.project-watchme.eu/
+  ~ Creator: University of Reading, UK, http://www.reading.ac.uk/
+  ~ Creator: NetRom Software, RO, http://www.netromsoftware.ro/
+  ~ Contributor: $author, $affiliation, $country, $website
+  ~ Version: 0.1
+  ~ Date: 31/7/2015
+  ~ Copyright: Copyright (C) 2014-2017 WATCHME Consortium
+  ~ License: The MIT License (MIT)
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>eu.watchme.modules</groupId>
+    <artifactId>modules_BayesianSM</artifactId>
+    <version>1.0.0</version>
+    
+    <parent>
+      <groupId>eu.watchme</groupId>
+      <artifactId>modules_Build</artifactId>
+      <version>1.0.0</version>
+    </parent>    
+    
+    <build>
+        <sourceDirectory>src</sourceDirectory>
+        <resources>
+            <resource>
+                <directory>src</directory>
+                <excludes>
+                    <exclude>**/*.java</exclude>
+                </excludes>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    
+    <name>modules_BayesianSM</name>
+    
+    <repositories>
+        <repository>
+            <id>localrepo</id>
+            <name>local</name>
+            <url>file:${topLevelBuildDir}\..\.mvnlocal</url>
+            <releases><enabled>true</enabled><updatePolicy>always</updatePolicy></releases>
+            <snapshots><enabled>true</enabled><updatePolicy>always</updatePolicy></snapshots>
+        </repository>
+    </repositories>    
+    
+    <dependencies>
+        <!-- Module dependencies -->
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>modules_DataAccess</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>modules_DomainModel</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>eu.watchme.modules</groupId>
+            <artifactId>modules_Common</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        
+        <!-- Project libraries dependencies -->
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>commons-logging-1.1</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>jpf-1.5</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>org.osgi.core-4.1.0</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>org.protege.common-4.1</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>org.protege.editor.core.application-4.1</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>org.protege.editor.owl-4.1.0.b209_2010_09_03_0303</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>org.protege.owlapi.extensions-1.0.0</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>org.protege.xmlcatalog-1.0.0</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>org.semanticweb.HermiT-1.2.5.927</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>org.semanticweb.owl.owlapi-3.1.0.1602</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>powerloom-1.0</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>protege-3.2</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>protege-owl-3.2</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>stella-1.0</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>unbbayes-4.18.10</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>unbbayes.gui.mebn.ontology.protege-1.1.3</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>${localdeps.groupid}</groupId>
+            <artifactId>unbbayes.prs.mebn-1.13.11</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+</project>

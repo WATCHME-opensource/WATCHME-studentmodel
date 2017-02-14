@@ -1,0 +1,28 @@
+{
+  "FeedbackSeekingStrategy": {
+    "poor": {
+      "en": ["There is little variation in from whom the student asks feedback."],
+      "nl": ["Er zit weinig variatie in de (functie van de) personen aan wie de student feedback vraagt"],
+      "del": ["Der Studierende bittet häufig dieselben Personen um Feedback."]
+    }
+  },
+  "PortfolioConsistency": {
+    "InconsistencyHigh": {
+      "en": ["The student's portfolio shows some signs of inconsistent development."],
+      "nl": ["In het portfolio zijn enkele tekenen aanwezig die mogelijk duiden op een inconsistente ontwikkeling."],	
+      "de": ["Der Studierende scheint einige professionelle Tätigkeiten besser zu entwickeln, als andere."]	
+    }
+  },
+  "InformationLevel": {
+    "en": ["The following EPAs might need some more assessments : %EpaName."],
+    "nl": ["Voor de volgende EPA's zijn wellicht meer beoordelingen nodig: %EpaName."],
+    "de": ["Die folgenden professionellen Tätigkeiten könnten mehr Überprüfungen bei dem Studierenden brauchen: %EpaName."]
+  },
+  "isFrustrated": {
+    "FrustrationHigh": {
+      "en": ["There are signs that the student's level of engagement is low."],
+      "nl": ["Er zijn signalen dat de betrokkenheid van de student daalt." ],
+      "de": ["Es gibt Anzeichen dafür, dass das Engagement des Studierenden niedrig ist." ]
+    }
+  }
+}

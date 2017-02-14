@@ -1,0 +1,1338 @@
+{
+  "MAX_Active_EPAs": 3,
+  "MAX_Inactive_EPAs": 3,
+  "MAX_Supervisor_Feedback": 1,
+  "SupportedForms": [
+    "9"
+  ],
+  "EPAs": [
+    {
+      "EpassId": "1",
+      "UnbId": "WATCHME_EPA1",
+      "ReadableName": {
+        "en": "Sets  learning goals for the whole curriculum and specific lessons.",
+        "nl": "Stelt leerdoelen op voor het gehele curriculum en specifieke lessen."
+      },
+      "ShortName": {
+        "en": "Task 1",
+        "nl": "Taak 1"
+      }
+    },
+    {
+      "EpassId": "2",
+      "UnbId": "WATCHME_EPA2",
+      "ReadableName": {
+        "en": "Designs learning activities (incl. materials and media) for the set learning goals.",
+        "nl": "Ontwerpt leeractiviteiten (incl. materialen en media) voor de gestelde leerdoelen."
+      },
+      "ShortName": {
+        "en": "Task 2",
+        "nl": "Taak 2"
+      }
+    },
+    {
+      "EpassId": "3",
+      "UnbId": "WATCHME_EPA3",
+      "ReadableName": {
+        "en": "Plans the execution and supervision of learning activities.",
+        "nl": "Plant de uitvoering en begeleiding van leeractiviteiten."
+      },
+      "ShortName": {
+        "en": "Task 3",
+        "nl": "Taak 3"
+      }
+    },
+    {
+      "EpassId": "4",
+      "UnbId": "WATCHME_EPA4",
+      "ReadableName": {
+        "en": "Supervises the execution of learning activities.",
+        "nl": "Begeleidt de uitvoering van leeractiviteiten."
+      },
+      "ShortName": {
+        "en": "Task 4",
+        "nl": "Taak 4"
+      }
+    },
+    {
+      "EpassId": "5",
+      "UnbId": "WATCHME_EPA5",
+      "ReadableName": {
+        "en": "Tests to which extend the set learning goals have been met.",
+        "nl": "Toetst in welke mate de gestelde leerdoelen zijn gerealiseerd."
+      },
+      "ShortName": {
+        "en": "Task 5",
+        "nl": "Taak 5"
+      }
+    },
+    {
+      "EpassId": "6",
+      "UnbId": "WATCHME_EPA6",
+      "ReadableName": {
+        "en": "Engages in interpersonal relationships with (groups of) students.",
+        "nl": "Gaat interpersoonlijke relaties met (groepen) leerlingen aan."
+      },
+      "ShortName": {
+        "en": "Task 6",
+        "nl": "Taak 6"
+      }
+    },
+    {
+      "EpassId": "7",
+      "UnbId": "WATCHME_EPA7",
+      "ReadableName": {
+        "en": "Directs the communication processes in the group.",
+        "nl": "Stuurt communicatieprocessen in de groep aan."
+      },
+      "ShortName": {
+        "en": "Task 7",
+        "nl": "Taak 7"
+      }
+    },
+    {
+      "EpassId": "8",
+      "UnbId": "WATCHME_EPA8",
+      "ReadableName": {
+        "en": "Supervises the development of the student as a person.",
+        "nl": "Begeleidt de ontwikkeling van de leerlingen als persoon."
+      },
+      "ShortName": {
+        "en": "Task 8",
+        "nl": "Taak 8"
+      }
+    },
+    {
+      "EpassId": "9",
+      "UnbId": "WATCHME_EPA9",
+      "ReadableName": {
+        "en": "Carries out tasks which go beyond the lesson, class and subject.",
+        "nl": "Voert les-, klas-, en vakoverstijgende taken uit."
+      },
+      "ShortName": {
+        "en": "Task 9",
+        "nl": "Taak 9"
+      }
+    },
+    {
+      "EpassId": "10",
+      "UnbId": "WATCHME_EPA10",
+      "ReadableName": {
+        "en": "Collaborates with colleagues and, if necessary, parents and other stakeholders.",
+        "nl": "Werkt samen met collega's en, indien nodig, ouders en andere betrokkenen."
+      },
+      "ShortName": {
+        "en": "Task 10",
+        "nl": "Taak 10"
+      }
+    },
+    {
+      "Index": "10",
+      "EpassId": "11",
+      "UnbId": "WATCHME_EPA11",
+      "ReadableName": {
+        "en": "Takes initiatives to improve his/her personal professional activities.",
+        "nl": "Neemt initiatieven om het eigen professionele handelen te verbeteren."
+      },
+      "ShortName": {
+        "en": "Task 11",
+        "nl": "Taak 11"
+      }
+    }
+  ],
+  "PerformanceIndicatorLevels": [
+    {
+      "Rank": 1,
+      "EpassId": "0",
+      "UnbId": "WATCHME_LEVEL1",
+      "ReadableName": {
+        "en": "1 (Starting)",
+        "nl": "1 (Beginnend)"
+      }
+    },
+    {
+      "Rank": 2,
+      "EpassId": "30",
+      "UnbId": "WATCHME_LEVEL2",
+      "ReadableName": {
+        "en": "2 (Developing)",
+        "nl": "2 (Ontwikkelend)"
+      }
+    },
+    {
+      "Rank": 3,
+      "EpassId": "40;60",
+      "UnbId": "WATCHME_LEVEL3",
+      "ReadableName": {
+        "en": "3 (Competent)",
+        "nl": "3 (Voldoende)"
+      }
+    },
+    {
+      "Rank": 4,
+      "EpassId": "80;90",
+      "UnbId": "WATCHME_LEVEL4",
+      "ReadableName": {
+        "en": "4 (Expert)",
+        "nl": "4 (Goed)"
+      }
+    },
+    {
+      "Rank": 5,
+      "EpassId": "120",
+      "UnbId": "WATCHME_LEVEL4",
+      "ReadableName": {
+        "en": "5 (Excellent)",
+        "nl": "5 (Excellent)"
+      }
+    }
+  ],
+  "FeedbackIndicators": [
+    {
+      "TypeId": 1,
+      "EpassId": "improvement",
+      "UnbId": "FB_IMPROVEMENT_NEGATIVE",
+      "ReadableName": {
+        "en": "Improvement feedback negative",
+        "nl": "Verbeteringsfeedback negatief"
+      }
+    },
+    {
+      "TypeId": 2,
+      "EpassId": "improvement",
+      "UnbId": "FB_IMPROVEMENT_NEUTRAL",
+      "ReadableName": {
+        "en": "Improvement feedback neutral",
+        "nl": "Verbeteringsfeedback neutraal"
+      }
+    },
+    {
+      "TypeId": 3,
+      "EpassId": "improvement",
+      "UnbId": "FB_IMPROVEMENT_POSITIVE",
+      "ReadableName": {
+        "en": "Improvement feedback positive",
+        "nl": "Verbeteringsfeedback positief"
+      }
+    },
+    {
+      "TypeId": 4,
+      "EpassId": "supervisor",
+      "UnbId": "FB_SUPERVISOR",
+      "ReadableName": {
+        "en": "Supervisor feedback",
+        "nl": "Begeleider feedback"
+      }
+    }
+  ],
+  "PerformanceIndicators": [
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag1"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag1a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA1",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher formulates specific and independently formulated teaching goals.",
+        "nl": "De docent stelt specifieke en zelfstandig geformuleerde lesdoelen op."
+      },
+      "ShortName": {
+        "en": "PI 1",
+        "nl": "PI 1"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag2"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag3"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag1b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA1",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher formulates teaching goals that relate to the subject content and the starting situation (prior knowledge, experience with the subject, previously taught material) of the pupils.",
+        "nl": "De docent stelt lesdoelen op die aansluiten bij de vakinhoud en de beginsituatie (voorkennis, ervaringen met het vak, eerder behandelde stof) van de leerlingen."
+      },
+      "ShortName": {
+        "en": "PI 2",
+        "nl": "PI 2"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag4"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag2a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA2",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher adds learning activities  she developed herself (incl. materials, media and digital content) to exisitng learning activities.",
+        "nl": "De docent voegt zelf ontworpen leeractiviteiten (incl. materialen, media en digitale content) toe aan bestaande leeractiviteiten."
+      },
+      "ShortName": {
+        "en": "PI 3",
+        "nl": "PI 3"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag5"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag2b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA2",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher selects (existing and developed by herself) learning activities that relate to the teaching goals and are intended to actively involves pupils in the lesson.",
+        "nl": "De docent selecteert (bestaande en zelf ontworpen) leeractiviteiten die aansluiten bij de gestelde lesdoelen en beogen leerlingen actief bij de les te betrekken."
+      },
+      "ShortName": {
+        "en": "PI 4",
+        "nl": "PI 4"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag8"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag3a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA3",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher transparently plans the implementation and coaching.",
+        "nl": "De docent plant de uitvoering en begeleiding op een transparante wijze."
+      },
+      "ShortName": {
+        "en": "PI 5",
+        "nl": "PI 5"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag3b"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag3b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA3",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher realistically plans the implementation and coaching.",
+        "nl": "De docent plant de uitvoering en begeleiding op een realistische wijze."
+      },
+      "ShortName": {
+        "en": "PI 6",
+        "nl": "PI 6"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag12"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag4a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA4",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher makes the intended teaching goals and lesson phases explicit.",
+        "nl": "De docent expliciteert de beoogde lesdoelen en lesfasen."
+      },
+      "ShortName": {
+        "en": "PI 7",
+        "nl": "PI 7"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag13"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag4b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA4",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher performs the planned (digital) learning activities efficiently and flexibly.",
+        "nl": "De docent voert de geplande (digitale) leeractiviteiten doelmatig en flexibel uit."
+      },
+      "ShortName": {
+        "en": "PI 8",
+        "nl": "PI 8"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag14"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag4c"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA4",
+        "PiUnbId": "WATCHME_PI3"
+      },
+      "ReadableName": {
+        "en": "The teacher stimulates active pupil involvement in lessons (activation and differentiation).",
+        "nl": "De docent stimuleert dat leerlingen actief bij de les betrokken zijn (activatie en differentiatie)."
+      },
+      "ShortName": {
+        "en": "PI 9",
+        "nl": "PI 9"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag15"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag4d"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA4",
+        "PiUnbId": "WATCHME_PI4"
+      },
+      "ReadableName": {
+        "en": "The teacher encourages pupils to select their own learning activities.",
+        "nl": "De docent stimuleert dat leerlingen hun eigen leeractiviteiten kiezen."
+      },
+      "ShortName": {
+        "en": "PI 10",
+        "nl": "PI 10"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag16"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag5a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA5",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher uses the (digtal) assessment she developed herself (incl. correction model).",
+        "nl": "De docent gebruikt zelfontwikkelde (digitale) toetsen (incl. correctiemodel)."
+      },
+      "ShortName": {
+        "en": "PI 11",
+        "nl": "PI 11"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag17"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag5b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA5",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher takes responsibility for the quality of her assessments.",
+        "nl": "De docent draagt zorg voor de kwaliteit van de toetsen."
+      },
+      "ShortName": {
+        "en": "PI 12",
+        "nl": "PI 12"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag18"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag5c"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA5",
+        "PiUnbId": "WATCHME_PI3"
+      },
+      "ReadableName": {
+        "en": "With an eye on formative and summative assessment, the teacher makes use of different (digital) forms of assessment.",
+        "nl": "De docent gebruikt, met het oog op formatieve en summatieve toetsing, verschillende (digitale) toetsvormen."
+      },
+      "ShortName": {
+        "en": "PI 13",
+        "nl": "PI 13"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag19"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag6a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA6",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher shows an interest in the pupil as a person.",
+        "nl": "De docent interesseert zich in de leerling als persoon."
+      },
+      "ShortName": {
+        "en": "PI 14",
+        "nl": "PI 14"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag20"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag6b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA6",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher is open to (individual) pupil initiatives.",
+        "nl": "De docent staat open voor initiatieven van de (individuele) leerlingen."
+      },
+      "ShortName": {
+        "en": "PI 15",
+        "nl": "PI 15"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag21"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag6c"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA6",
+        "PiUnbId": "WATCHME_PI3"
+      },
+      "ReadableName": {
+        "en": "The teacher efficiently and flexibly responds to social interactionss within the group.",
+        "nl": "De docent speelt doelmatig en flexibel in op de sociale verhoudingen binnen de groep."
+      },
+      "ShortName": {
+        "en": "PI 16",
+        "nl": "PI 16"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag22"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag7a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA7",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "While leading,guiding and confronting pupils, the teacher communicates efficiently.",
+        "nl": "De docent communiceert, tijdens het leiden, begeleiden en confronteren van leerlingen, op een doelmatige wijze."
+      },
+      "ShortName": {
+        "en": "PI 17",
+        "nl": "PI 17"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag24"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag7b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA7",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher flexibly and efficiently maintains behavioural norms.",
+        "nl": "De docent handhaaft de gedragsnormen op een doelmatige en flexibele wijze."
+      },
+      "ShortName": {
+        "en": "PI 18",
+        "nl": "PI 18"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag25"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag26"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag8a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA8",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher notices problems and provides guidance (e.g. learning and behavioural problems) in the development of pupils.",
+        "nl": "De docent signaleert en begeleidt problemen (bv. leer- en gedragsproblemen) in de ontwikkeling van de leerlingen."
+      },
+      "ShortName": {
+        "en": "PI 19",
+        "nl": "PI 19"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag27"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag8b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA8",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher stimulates pupils to critically consider their attitudes and behaviour.",
+        "nl": "De docent stimuleert leerlingen om kritisch na te denken over hun opvattingen en gedrag."
+      },
+      "ShortName": {
+        "en": "PI 20",
+        "nl": "PI 20"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag28"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag9a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA9",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher describes tasks and priorities regarding school and educational policies.",
+        "nl": "De docent beschrijft de taken en prioriteiten m.b.t. het school- en onderwijsbeleid."
+      },
+      "ShortName": {
+        "en": "PI 21",
+        "nl": "PI 21"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag29"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag9b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA9",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher performs various tasks (e.g. primary teaching tasks, developing assessment, advising pupils, policy development).",
+        "nl": "De docent voert verschillende taken (bv. primaire lestaak, toetsontwikkeling, mentoraat, beleidsontwikkeling) uit."
+      },
+      "ShortName": {
+        "en": "PI 22",
+        "nl": "PI 22"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag31"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag10a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA10",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The teacher cooperates efficiently with others (colleagues, parents and other involved people).",
+        "nl": "De docent werkt doelmatig met anderen (collega's, ouders, andere betrokken) samen."
+      },
+      "ShortName": {
+        "en": "PI 23",
+        "nl": "PI 23"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag32"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag10b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA10",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher takes initiative in cooperating with others (colleagues, parents and other involved people).",
+        "nl": "De docent toont initiatief om met anderen (collega's, ouders, andere betrokken) samen te werken."
+      },
+      "ShortName": {
+        "en": "PI 24",
+        "nl": "PI 24"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag33"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag11a"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA11",
+        "PiUnbId": "WATCHME_PI1"
+      },
+      "ReadableName": {
+        "en": "The techer makes a well-founded strengths and weaknesses analysis of her own performance.",
+        "nl": "De docent maakt een gefundeerde sterkte- en zwakteanalyse van het eigen professionele handelen."
+      },
+      "ShortName": {
+        "en": "PI 25",
+        "nl": "PI 25"
+      }
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "vraag34"
+        },
+        {
+          "FormType": "9",
+          "QuestionId": "vraag11b"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA11",
+        "PiUnbId": "WATCHME_PI2"
+      },
+      "ReadableName": {
+        "en": "The teacher undertakes follow-up activities aimed at improving her own performance.",
+        "nl": "De docent onderneemt vervolgactiviteiten gericht op het verbeteren van het eigen professionele handelen."
+      },
+      "ShortName": {
+        "en": "PI 26",
+        "nl": "PI 26"
+      }
+    }
+  ],
+  "SupervisorFeedbackFields": [
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk1"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA1",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk2"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA2",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk3"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA3",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk4"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA4",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk5"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA5",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk6"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA6",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk7"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA7",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk8"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA8",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk9"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA9",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk10"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA10",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "sterk11"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA11",
+        "PiUnbId": "WATCHME_SP"
+      },
+      "feedbackLevel": "positive"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter1"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA1",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter2"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA2",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter3"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA3",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter4"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA4",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter5"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA5",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter6"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA6",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter7"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA7",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter8"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA8",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter9"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA9",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter10"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA10",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    },
+    {
+      "Epass": [
+        {
+          "FormType": "9",
+          "QuestionId": "verbeter11"
+        }
+      ],
+      "Unb": {
+        "EpaUnbId": "WATCHME_EPA11",
+        "PiUnbId": "WATCHME_SN"
+      },
+      "feedbackLevel": "negative"
+    }
+  ],
+  "VIZStructure": {
+    "Roles": [
+      {
+        "ReadableName": {
+          "en": "Designer",
+          "nl": "Designer"
+        },
+        "EPAs": [
+          {
+            "EpassId": "1",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              }
+            ]
+          },
+          {
+            "EpassId": "2",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              }
+            ]
+          },
+          {
+            "EpassId": "3",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              }
+            ]
+          },
+          {
+            "EpassId": "4",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              },
+              {
+                "UnbId": "WATCHME_PI3"
+              },
+              {
+                "UnbId": "WATCHME_PI4"
+              }
+            ]
+          },
+          {
+            "EpassId": "5",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              },
+              {
+                "UnbId": "WATCHME_PI3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ReadableName": {
+          "en": "Manager",
+          "nl": "Manager"
+        },
+        "EPAs": [
+          {
+            "EpassId": "6",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              },
+              {
+                "UnbId": "WATCHME_PI3"
+              }
+            ]
+          },
+          {
+            "EpassId": "7",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ReadableName": {
+          "en": "Pedagogue",
+          "nl": "Pedagogue"
+        },
+        "EPAs": [
+          {
+            "EpassId": "8",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ReadableName": {
+          "en": "Member",
+          "nl": "Member"
+        },
+        "EPAs": [
+          {
+            "EpassId": "9",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              }
+            ]
+          },
+          {
+            "EpassId": "10",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ReadableName": {
+          "en": "Self-manager",
+          "nl": "Self-manager"
+        },
+        "EPAs": [
+          {
+            "EpassId": "11",
+            "PIs": [
+              {
+                "UnbId": "WATCHME_PI1"
+              },
+              {
+                "UnbId": "WATCHME_PI2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Feedback": {
+      "positive": {
+        "en": "Your supervisor added some positive feedback on this task"
+      },
+      "negative": {
+        "en": "Your supervisor added some negative feedback on this task"
+      },
+      "neutral": {
+        "en": "Your supervisor added some feedback on this task"
+      }
+    }
+  }
+}

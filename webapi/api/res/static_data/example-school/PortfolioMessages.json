@@ -1,0 +1,36 @@
+{
+  "FeedbackSeekingStrategy": {
+    "poor": {
+      "en": [
+        "There is little variation in whom you ask feedback from. Asking feedback from people with different roles provides more insight into your learning process. Perhaps you can also ask your internship supervisor or another colleague to provide feedback.",
+	"It seems that you mostly ask feedback from your institute supervisor. It is always interesting to get a new perspective. Next time you ask feedback you might also gather information from a peer or your internship supervisor."
+      ],
+      "nl": [
+        "Er zit weinig variatie in de personen wie je om feedback vraagt. Feedback vragen van personen met verschillende rollen geeft meer inzicht je in leerproces. Wellicht dat je je stagebegeleider of een andere collega ook een keer om feedback kunt vragen.",
+	"Het lijkt erop dat je vooral je mentor om feedback vraagt. Het is altijd interessant om een met een andere blik naar je functioneren te kijken. De volgende keer dat je om feedback vraagt zou je ook een medestudent of je stagebegeleider kunnen benaderen"
+      ]
+    }
+  },
+  "PortfolioConsistency": {
+    "InconsistencyHigh": {
+      "en": [
+	"It seems that your scores for the tasks differ; you scored higher on certain tasks compared to other tasks. Do you feel this corresponds with the learning activities you carried out? If not, you may want to consult your institute supervisor or your internship supervisor.",
+	"On some of the tasks you scored really well, on others unfortunately not or not all. Perhaps it is time to start working on the tasks you received lower scores or did not work on previously."
+      ],
+      "nl": [
+        "Het lijkt erop dat je scores voor de taken verschillen; je scoort hoger op bepaalde taken in vergelijking tot andere taken. Heb je het gevoel dat dit overeenkomt met de leeractiviteiten die je ondernomen hebt? Zo niet, dan zou je je mentor of je stagebegeleider om advies kunnen vragen.",
+	"Op sommige taken heb je een hele goede score behaald, op andere taken heb je helaas niet goed gescoord of geen score gekregen. Wellicht dat het tijd is om aan taken te werken waarop je lagere scores behaald hebt of waar je nog niet eerder aan gewerkt hebt."
+      ]
+    }
+  },
+  "InformationLevel": {
+    "en": [
+      "You may want to focus more on %EpaName. It seems that this task has not been frequently assessed or your scores for this task vary a lot.",
+      "It seems that %EpaName needs some attention; you received no score or your scores are much more diverse then for the other tasks. Perhaps you may want to consult your institute supervisor or your internship supervisor."
+    ],
+    "nl": [
+      "Je zou je meer op %EpaName kunnen focussen. Het lijkt erop dat deze taak niet (vaak) beoordeeld is of dat scores voor deze taak veel van elkaar verschillen.",
+      "Het lijkt erop dat %EpaName meer aandacht nodig heeft; je ontving geen score of je scores zijn veel gevarieerder dan de scores voor de andere taken. Wellicht dat je je stagebegeleider of je mentor om advies wilt vragen."
+     ] 
+  }
+}

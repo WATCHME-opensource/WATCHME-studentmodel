@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <property name="LOGS_DIR" value="${logging.outputPath}" />
+  <property name="LOG_FILE_NAME" value="StudentModel" />
+  <property name="ENV_NAME" value="${build.profile.id}" />
+
+  <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <file>${LOGS_DIR}/${LOG_FILE_NAME}_${ENV_NAME}.log</file>
+    <append>true</append>
+    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+      <fileNamePattern>${LOGS_DIR}/${LOG_FILE_NAME}_${ENV_NAME}_%d{yyyy-MM-dd}.log</fileNamePattern>
+      <maxHistory>${logging.maxHistoryInDays}</maxHistory>
+    </rollingPolicy>
+
+    <encoder>
+      <pattern>%marker %date{ISO8601} %-4relative %-5level %logger{35} - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <appender name="FILE_ERROR" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <file>${LOGS_DIR}/${LOG_FILE_NAME}_Errors_${ENV_NAME}.log</file>
+    <append>true</append>
+    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+      <fileNamePattern>${LOGS_DIR}/${LOG_FILE_NAME}_Errors_${ENV_NAME}_%d{yyyy-MM-dd}.log</fileNamePattern>
+      <maxHistory>${logging.maxHistoryInDays}</maxHistory>
+    </rollingPolicy>
+
+    <encoder>
+      <pattern>%date{ISO8601} %-4relative %-5level %logger{35} - %msg%n</pattern>
+    </encoder>
+    <filter class="ch.qos.logback.classic.filter.LevelFilter">
+      <level>ERROR</level>
+      <onMatch>ACCEPT</onMatch>
+      <onMismatch>DENY</onMismatch>
+    </filter>
+  </appender>
+
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%date{ISO8601} %-4relative %-5level %logger{35} - %msg%n</pattern>
+    </encoder>
+  </appender>
+  
+  <logger name="eu.watchme" level="all"/>
+  <logger name="org.mongodb" level="off"/>
+
+  <root level="all">
+    <appender-ref ref="FILE" />
+    <appender-ref ref="STDOUT" />
+    <appender-ref ref="FILE_ERROR" />
+  </root>
+</configuration>

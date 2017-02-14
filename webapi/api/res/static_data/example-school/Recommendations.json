@@ -1,0 +1,2333 @@
+{
+    "Improvement": [
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "check more often if the the set (others \/ the course book) learning goals match those of the specific subject content.",
+                    "check more often if the the set (others \/ the course book) learning goals match those of the specific subject content.",
+                    "check more often if the the set (others \/ the course book) learning goals match those of the specific subject content."
+                ],
+                "nl": [
+                    "vaker te controleren of de de gestelde (van anderen \/ de methode) leerdoelen aansluiten bij de specifieke vakinhoud.",
+                    "vaker te controleren of de de gestelde (van anderen \/ de methode) leerdoelen aansluiten bij de specifieke vakinhoud.",
+                    "vaker te controleren of de de gestelde (van anderen \/ de methode) leerdoelen aansluiten bij de specifieke vakinhoud."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "formulate your own learning goals in stead of taking them over and check if they (partially) match those of the specific subject content.",
+                    "formulate your own learning goals in stead of taking them over and check if they (partially) match those of the specific subject content.",
+                    "formulate your own learning goals in stead of taking them over and check if they (partially) match those of the specific subject content."
+                ],
+                "nl": [
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) aansluiten bij de specifieke vakinhoud.",
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) aansluiten bij de specifieke vakinhoud.",
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) aansluiten bij de specifieke vakinhoud."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "be sure to completely match the self-formulated learning goals with those of the specific subject matter.",
+                    "be sure to completely match the self-formulated learning goals with those of the specific subject matter.",
+                    "be sure to completely match the self-formulated learning goals with those of the specific subject matter."
+                ],
+                "nl": [
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen volledig aansluiten bij de specifieke vakinhoud.",
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen volledig aansluiten bij de specifieke vakinhoud.",
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen volledig aansluiten bij de specifieke vakinhoud."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Formulates your own learning goals which match those of the specific subject content.",
+                    "Formulates your own learning goals which match those of the specific subject content.",
+                    "Formulates your own learning goals which match those of the specific subject content."
+                ],
+                "nl": [
+                    "Formulates your own learning goals which match those of the specific subject content.",
+                    "Formulates your own learning goals which match those of the specific subject content.",
+                    "Formulates your own learning goals which match those of the specific subject content."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "check more often if the set (others \/ the course book) learning goals are SMART formulated.",
+                    "check more often if the set (others \/ the course book) learning goals are SMART formulated.",
+                    "check more often if the set (others \/ the course book) learning goals are SMART formulated."
+                ],
+                "nl": [
+                    "vaker te controleren of de gestelde (anderen \/ de methode) leerdoelen SMART geformuleerd zijn.",
+                    "vaker te controleren of de gestelde (anderen \/ de methode) leerdoelen SMART geformuleerd zijn.",
+                    "vaker te controleren of de gestelde (anderen \/ de methode) leerdoelen SMART geformuleerd zijn."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "formulate your own learning goals instead of taking them over and check if they (partially) meet the SMART guidelines.",
+                    "formulate your own learning goals instead of taking them over and check if they (partially) meet the SMART guidelines.",
+                    "formulate your own learning goals instead of taking them over and check if they (partially) meet the SMART guidelines."
+                ],
+                "nl": [
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) voldoen aan de SMART-richtlijnen.",
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) voldoen aan de SMART-richtlijnen.",
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) voldoen aan de SMART-richtlijnen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "be sure that your self-formulated learning completely meet the SMART guidelines.",
+                    "be sure that your self-formulated learning completely meet the SMART guidelines.",
+                    "be sure that your self-formulated learning completely meet the SMART guidelines."
+                ],
+                "nl": [
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen volledig voldoen aan de SMART-richtlijnen.",
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen volledig voldoen aan de SMART-richtlijnen.",
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen volledig voldoen aan de SMART-richtlijnen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Formulate your own learning goals which meet SMART guidelines.",
+                    "Formulate your own learning goals which meet SMART guidelines.",
+                    "Formulate your own learning goals which meet SMART guidelines."
+                ],
+                "nl": [
+                    "Formulate your own learning goals which meet SMART guidelines.",
+                    "Formulate your own learning goals which meet SMART guidelines.",
+                    "Formulate your own learning goals which meet SMART guidelines."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "check more often if the set (others \/ the course book) learning goals match with the starting situation of the students.",
+                    "check more often if the set (others \/ the course book) learning goals match with the starting situation of the students.",
+                    "check more often if the set (others \/ the course book) learning goals match with the starting situation of the students."
+                ],
+                "nl": [
+                    "vaker te controleren of de gestelde (anderen \/ de methode) leerdoelen aansluiten bij de beginsituatie van de leerlingen.",
+                    "vaker te controleren of de gestelde (anderen \/ de methode) leerdoelen aansluiten bij de beginsituatie van de leerlingen.",
+                    "vaker te controleren of de gestelde (anderen \/ de methode) leerdoelen aansluiten bij de beginsituatie van de leerlingen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "formulate your own learning goals instead of taking them over and check if they (partially) match with the starting situation of the students.",
+                    "formulate your own learning goals instead of taking them over and check if they (partially) match with the starting situation of the students.",
+                    "formulate your own learning goals instead of taking them over and check if they (partially) match with the starting situation of the students."
+                ],
+                "nl": [
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) aansluiten bij de beginsituatie van de leerlingen.",
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) aansluiten bij de beginsituatie van de leerlingen.",
+                    "je eigen leerdoelen te formuleren in plaats van deze over te nemen en te controleren of ze (gedeeltelijk) aansluiten bij de beginsituatie van de leerlingen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "be sure that your self-formulated learning completely match with the measured starting situation of students.",
+                    "be sure that your self-formulated learning completely match with the measured starting situation of students.",
+                    "be sure that your self-formulated learning completely match with the measured starting situation of students."
+                ],
+                "nl": [
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen goed passen bij de gepeilde beginsituatie van de leerlingen.",
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen goed passen bij de gepeilde beginsituatie van de leerlingen.",
+                    "er voor te zorgen dat de door jou geformuleerde leerdoelen goed passen bij de gepeilde beginsituatie van de leerlingen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA1",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Formulate your own learning goals which match the measured starting situation of students.",
+                    "Formulate your own learning goals which match the measured starting situation of students.",
+                    "Formulate your own learning goals which match the measured starting situation of students."
+                ],
+                "nl": [
+                    "Formulate your own learning goals which match the measured starting situation of students.",
+                    "Formulate your own learning goals which match the measured starting situation of students.",
+                    "Formulate your own learning goals which match the measured starting situation of students."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "use adjusted learning activities (incl. materials, media and digital content) more often in stead of directly using activities which have been developed by others \/ the course book.",
+                    "use adjusted learning activities (incl. materials, media and digital content) more often in stead of directly using activities which have been developed by others \/ the course book.",
+                    "use adjusted learning activities (incl. materials, media and digital content) more often in stead of directly using activities which have been developed by others \/ the course book."
+                ],
+                "nl": [
+                    "vaker aangepaste leeractiviteiten (incl. materialen, media en digitale content) te gebruiken in plaats van activiteiten anderen \/ de methode ontwikkeld zijn direct over te nemen.",
+                    "vaker aangepaste leeractiviteiten (incl. materialen, media en digitale content) te gebruiken in plaats van activiteiten anderen \/ de methode ontwikkeld zijn direct over te nemen.",
+                    "vaker aangepaste leeractiviteiten (incl. materialen, media en digitale content) te gebruiken in plaats van activiteiten anderen \/ de methode ontwikkeld zijn direct over te nemen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "develop your own learning activities (incl. materials, media and digital content) instead of taking them over from others \/ the course book.",
+                    "develop your own learning activities (incl. materials, media and digital content) instead of taking them over from others \/ the course book.",
+                    "develop your own learning activities (incl. materials, media and digital content) instead of taking them over from others \/ the course book."
+                ],
+                "nl": [
+                    "je eigen leeractiviteiten (incl. materialen, media en digitale content) te ontwikkelen in plaats van deze over te nemen van anderen \/ de methode.",
+                    "je eigen leeractiviteiten (incl. materialen, media en digitale content) te ontwikkelen in plaats van deze over te nemen van anderen \/ de methode.",
+                    "je eigen leeractiviteiten (incl. materialen, media en digitale content) te ontwikkelen in plaats van deze over te nemen van anderen \/ de methode."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "check more often if new learning activities (incl. materials, media and digital content) are desired and develop these accordingly with blended learning.",
+                    "check more often if new learning activities (incl. materials, media and digital content) are desired and develop these accordingly with blended learning.",
+                    "check more often if new learning activities (incl. materials, media and digital content) are desired and develop these accordingly with blended learning."
+                ],
+                "nl": [
+                    "vaker te controleren of nieuwe leeractiviteiten (incl. materialen, media en digitale content) gewenst zijn en deze op weloverwogen gronden vorm te geven met behulp van blended learning.",
+                    "vaker te controleren of nieuwe leeractiviteiten (incl. materialen, media en digitale content) gewenst zijn en deze op weloverwogen gronden vorm te geven met behulp van blended learning.",
+                    "vaker te controleren of nieuwe leeractiviteiten (incl. materialen, media en digitale content) gewenst zijn en deze op weloverwogen gronden vorm te geven met behulp van blended learning."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Know when new learning activities (incl. materials and media) are desired and develop these accordingly. ",
+                    "Know when new learning activities (incl. materials and media) are desired and develop these accordingly. ",
+                    "Know when new learning activities (incl. materials and media) are desired and develop these accordingly. "
+                ],
+                "nl": [
+                    "Know when new learning activities (incl. materials and media) are desired and develop these accordingly. ",
+                    "Know when new learning activities (incl. materials and media) are desired and develop these accordingly. ",
+                    "Know when new learning activities (incl. materials and media) are desired and develop these accordingly. "
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "check more often if the learning activities match with the the formulated learning goals.",
+                    "check more often if the learning activities match with the the formulated learning goals.",
+                    "check more often if the learning activities match with the the formulated learning goals."
+                ],
+                "nl": [
+                    "vaker te controleren of de leeractiviteiten aansluiten bij de geformuleerde leerdoelen.",
+                    "vaker te controleren of de leeractiviteiten aansluiten bij de geformuleerde leerdoelen.",
+                    "vaker te controleren of de leeractiviteiten aansluiten bij de geformuleerde leerdoelen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "check more often if the learning activities (incl. materials, media and digital content) relate to the desired learning outcomes.",
+                    "check more often if the learning activities (incl. materials, media and digital content) relate to the desired learning outcomes.",
+                    "check more often if the learning activities (incl. materials, media and digital content) relate to the desired learning outcomes."
+                ],
+                "nl": [
+                    "vaker te controleren of de leeractiviteiten (incl. materialen, media en digitale content) gerelateerd zijn aan de gewenste leeropbrengst.",
+                    "vaker te controleren of de leeractiviteiten (incl. materialen, media en digitale content) gerelateerd zijn aan de gewenste leeropbrengst.",
+                    "vaker te controleren of de leeractiviteiten (incl. materialen, media en digitale content) gerelateerd zijn aan de gewenste leeropbrengst."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that the learning outcomes (incl. materials, media and digital content) clearly relate to the desired learning outcomes.",
+                    "ensure that the learning outcomes (incl. materials, media and digital content) clearly relate to the desired learning outcomes.",
+                    "ensure that the learning outcomes (incl. materials, media and digital content) clearly relate to the desired learning outcomes."
+                ],
+                "nl": [
+                    "je er voor te zorgen dat de leeractiviteiten (incl. materialen, media en digitale content) duidelijk gerelateerd zijn aan de gewenste leeropbrengst.",
+                    "je er voor te zorgen dat de leeractiviteiten (incl. materialen, media en digitale content) duidelijk gerelateerd zijn aan de gewenste leeropbrengst.",
+                    "je er voor te zorgen dat de leeractiviteiten (incl. materialen, media en digitale content) duidelijk gerelateerd zijn aan de gewenste leeropbrengst."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Clearly relate the learning outcomes (incl. materials and media) to the desired learning outcomes.",
+                    "Clearly relate the learning outcomes (incl. materials and media) to the desired learning outcomes.",
+                    "Clearly relate the learning outcomes (incl. materials and media) to the desired learning outcomes."
+                ],
+                "nl": [
+                    "Clearly relate the learning outcomes (incl. materials and media) to the desired learning outcomes.",
+                    "Clearly relate the learning outcomes (incl. materials and media) to the desired learning outcomes.",
+                    "Clearly relate the learning outcomes (incl. materials and media) to the desired learning outcomes."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "alternate more often between instruction oriented and activating working methods and occasionally use ICT-applications.",
+                    "alternate more often between instruction oriented and activating working methods and occasionally use ICT-applications.",
+                    "alternate more often between instruction oriented and activating working methods and occasionally use ICT-applications."
+                ],
+                "nl": [
+                    "meer afwisselend gebruik te maken van aanbiedende en activerende werkvormen en hierbij af en toe gebruik te maken van ICT.",
+                    "meer afwisselend gebruik te maken van aanbiedende en activerende werkvormen en hierbij af en toe gebruik te maken van ICT.",
+                    "meer afwisselend gebruik te maken van aanbiedende en activerende werkvormen en hierbij af en toe gebruik te maken van ICT."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "vary more often in the instruction oriented and activating working methods (also digital) you use in your lessons.",
+                    "vary more often in the instruction oriented and activating working methods (also digital) you use in your lessons.",
+                    "vary more often in the instruction oriented and activating working methods (also digital) you use in your lessons."
+                ],
+                "nl": [
+                    "binnen de lessen meer te vari\u00ebren in het gebruik van aanbiedende en activerende werkvormen (ook digitaal).",
+                    "binnen de lessen meer te vari\u00ebren in het gebruik van aanbiedende en activerende werkvormen (ook digitaal).",
+                    "binnen de lessen meer te vari\u00ebren in het gebruik van aanbiedende en activerende werkvormen (ook digitaal)."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "frequently use a rich diversity of instruction oriented and activating working methods (offline and online) in your lessons.",
+                    "frequently use a rich diversity of instruction oriented and activating working methods (offline and online) in your lessons.",
+                    "frequently use a rich diversity of instruction oriented and activating working methods (offline and online) in your lessons."
+                ],
+                "nl": [
+                    "veelvuldig gebruik te maken van een rijke verscheidenheid aan aanbiedende en activerende werkvormen (offline en online) binnen de lessen.",
+                    "veelvuldig gebruik te maken van een rijke verscheidenheid aan aanbiedende en activerende werkvormen (offline en online) binnen de lessen.",
+                    "veelvuldig gebruik te maken van een rijke verscheidenheid aan aanbiedende en activerende werkvormen (offline en online) binnen de lessen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Use a rich diversity of instruction oriented and activating working methods.",
+                    "Use a rich diversity of instruction oriented and activating working methods.",
+                    "Use a rich diversity of instruction oriented and activating working methods."
+                ],
+                "nl": [
+                    "Use a rich diversity of instruction oriented and activating working methods.",
+                    "Use a rich diversity of instruction oriented and activating working methods.",
+                    "Use a rich diversity of instruction oriented and activating working methods."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "more activeley seek solutions aimed at taking the differences between students at a group level into account.",
+                    "more activeley seek solutions aimed at taking the differences between students at a group level into account.",
+                    "more activeley seek solutions aimed at taking the differences between students at a group level into account."
+                ],
+                "nl": [
+                    "actiever op zoek te gaan naar oplossingen gericht op het beter rekening houden met de verschillen tussen leerlingen op groepsniveau.",
+                    "actiever op zoek te gaan naar oplossingen gericht op het beter rekening houden met de verschillen tussen leerlingen op groepsniveau.",
+                    "actiever op zoek te gaan naar oplossingen gericht op het beter rekening houden met de verschillen tussen leerlingen op groepsniveau."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "more often take the differences between students into consideration by choosing targeted brush-up activities and enrichment activities at the class level and applying ICT-applications.",
+                    "more often take the differences between students into consideration by choosing targeted brush-up activities and enrichment activities at the class level and applying ICT-applications.",
+                    "more often take the differences between students into consideration by choosing targeted brush-up activities and enrichment activities at the class level and applying ICT-applications."
+                ],
+                "nl": [
+                    "meer rekening te houden met verschillen tussen leerlingen door toegesneden bijspijkeractiviteiten en verrijkingsoefeningen op groepsniveau te kiezen en gebruik te maken van ICT-toepassingen.",
+                    "meer rekening te houden met verschillen tussen leerlingen door toegesneden bijspijkeractiviteiten en verrijkingsoefeningen op groepsniveau te kiezen en gebruik te maken van ICT-toepassingen.",
+                    "meer rekening te houden met verschillen tussen leerlingen door toegesneden bijspijkeractiviteiten en verrijkingsoefeningen op groepsniveau te kiezen en gebruik te maken van ICT-toepassingen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "let individual students work at their own level more often by choosing appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with ICT-applicatons) at their own place and own pace.",
+                    "let individual students work at their own level more often by choosing appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with ICT-applicatons) at their own place and own pace.",
+                    "let individual students work at their own level more often by choosing appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with ICT-applicatons) at their own place and own pace."
+                ],
+                "nl": [
+                    "individuele leerlingen vaker op eigen niveau te laten werken door gepaste bijspijkeractiviteiten en verrijkingoefeningen te kiezen die ze o.a. met gebruik van ICT op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren.",
+                    "individuele leerlingen vaker op eigen niveau te laten werken door gepaste bijspijkeractiviteiten en verrijkingoefeningen te kiezen die ze o.a. met gebruik van ICT op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren.",
+                    "individuele leerlingen vaker op eigen niveau te laten werken door gepaste bijspijkeractiviteiten en verrijkingoefeningen te kiezen die ze o.a. met gebruik van ICT op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA2",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Let individual students work at their own level as much as possible and choose appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with ICT-applicatons) at their own place and own pace.",
+                    "Let individual students work at their own level as much as possible and choose appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with ICT-applicatons) at their own place and own pace.",
+                    "Let individual students work at their own level as much as possible and choose appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with ICT-applicatons) at their own place and own pace."
+                ],
+                "nl": [
+                    "Laat individuele leerlingen zoveel mogelijk op eigen niveau werken en kies voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen die ze o.a. met gebruik van ICT op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren.",
+                    "Laat individuele leerlingen zoveel mogelijk op eigen niveau werken en kies voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen die ze o.a. met gebruik van ICT op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren.",
+                    "Laat individuele leerlingen zoveel mogelijk op eigen niveau werken en kies voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen die ze o.a. met gebruik van ICT op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "more often use lesson plans which contains a clear and identifiable introduction, body and closing.",
+                    "more often use lesson plans which contains a clear and identifiable introduction, body and closing.",
+                    "more often use lesson plans which contains a clear and identifiable introduction, body and closing."
+                ],
+                "nl": [
+                    "vaker gebruik te maken van lesplanningen met daarin een duidelijk te herleiden introductie, kern en afsluiting.",
+                    "vaker gebruik te maken van lesplanningen met daarin een duidelijk te herleiden introductie, kern en afsluiting.",
+                    "vaker gebruik te maken van lesplanningen met daarin een duidelijk te herleiden introductie, kern en afsluiting."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "organize your lesson plans in a more structured and realistic way.",
+                    "organize your lesson plans in a more structured and realistic way.",
+                    "organize your lesson plans in a more structured and realistic way."
+                ],
+                "nl": [
+                    "meer structuur in je lesplanningen aan de te brengen en e.e.a. realistischer te plannen.",
+                    "meer structuur in je lesplanningen aan de te brengen en e.e.a. realistischer te plannen.",
+                    "meer structuur in je lesplanningen aan de te brengen en e.e.a. realistischer te plannen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "organize also the content of the lessons plans in a more structured and realistic way.",
+                    "organize also the content of the lessons plans in a more structured and realistic way.",
+                    "organize also the content of the lessons plans in a more structured and realistic way."
+                ],
+                "nl": [
+                    "naast de opbouw ook de inhoud van de lesplanningen meer te structureren en realistischer te plannen.",
+                    "naast de opbouw ook de inhoud van de lesplanningen meer te structureren en realistischer te plannen.",
+                    "naast de opbouw ook de inhoud van de lesplanningen meer te structureren en realistischer te plannen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Organize the lesson plan and the content of the lesson structurally and realistically.",
+                    "Organize the lesson plan and the content of the lesson structurally and realistically.",
+                    "Organize the lesson plan and the content of the lesson structurally and realistically."
+                ],
+                "nl": [
+                    "Plan de opbouw en de inhoud van de les op een gestructureerde en realistische wijze.",
+                    "Plan de opbouw en de inhoud van de les op een gestructureerde en realistische wijze.",
+                    "Plan de opbouw en de inhoud van de les op een gestructureerde en realistische wijze."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "take (to be expected) events more often into consideration in your lesson plans.",
+                    "take (to be expected) events more often into consideration in your lesson plans.",
+                    "take (to be expected) events more often into consideration in your lesson plans."
+                ],
+                "nl": [
+                    "vaker rekening te houden met (te verwachten) gebeurtenissen in je lesplanningen.",
+                    "vaker rekening te houden met (te verwachten) gebeurtenissen in je lesplanningen.",
+                    "vaker rekening te houden met (te verwachten) gebeurtenissen in je lesplanningen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "ensure that (to be expected) events are adequately taken into consideration in your lesson plans.",
+                    "ensure that (to be expected) events are adequately taken into consideration in your lesson plans.",
+                    "ensure that (to be expected) events are adequately taken into consideration in your lesson plans."
+                ],
+                "nl": [
+                    "er voor te zorgen dat je in de lesplanningen adequaat rekening houdt met (te verwachten) gebeurtenissen.",
+                    "er voor te zorgen dat je in de lesplanningen adequaat rekening houdt met (te verwachten) gebeurtenissen.",
+                    "er voor te zorgen dat je in de lesplanningen adequaat rekening houdt met (te verwachten) gebeurtenissen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that you have an alternative lesson plan available in order to adequately respond to (to be expected) events.",
+                    "ensure that you have an alternative lesson plan available in order to adequately respond to (to be expected) events.",
+                    "ensure that you have an alternative lesson plan available in order to adequately respond to (to be expected) events."
+                ],
+                "nl": [
+                    "er voor te zorgen dat je een alternatieve planning beschikbaar hebt om adequaat in te spelen op (te verwachten) gebeurtenissen.",
+                    "er voor te zorgen dat je een alternatieve planning beschikbaar hebt om adequaat in te spelen op (te verwachten) gebeurtenissen.",
+                    "er voor te zorgen dat je een alternatieve planning beschikbaar hebt om adequaat in te spelen op (te verwachten) gebeurtenissen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Have an alternative lesson plan available in order to respond to (to be expected) events.",
+                    "Have an alternative lesson plan available in order to respond to (to be expected) events.",
+                    "Have an alternative lesson plan available in order to respond to (to be expected) events."
+                ],
+                "nl": [
+                    "Have an alternative lesson plan available in order to respond to (to be expected) events.",
+                    "Have an alternative lesson plan available in order to respond to (to be expected) events.",
+                    "Have an alternative lesson plan available in order to respond to (to be expected) events."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "incorporate not only direct instruction but also activating working methods (including ICT-applications) in your lesson plans.",
+                    "incorporate not only direct instruction but also activating working methods (including ICT-applications) in your lesson plans.",
+                    "incorporate not only direct instruction but also activating working methods (including ICT-applications) in your lesson plans."
+                ],
+                "nl": [
+                    "dat je niet alleen aanbiedende maar ook activerende werkvormen (o.a.vormgegeven met ICT) opneemt in de lesplanningen.",
+                    "dat je niet alleen aanbiedende maar ook activerende werkvormen (o.a.vormgegeven met ICT) opneemt in de lesplanningen.",
+                    "dat je niet alleen aanbiedende maar ook activerende werkvormen (o.a.vormgegeven met ICT) opneemt in de lesplanningen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "develop lesson plans which are distinguished by a diversity of instruction oriented and activating working methods (blendend learning) more often.",
+                    "develop lesson plans which are distinguished by a diversity of instruction oriented and activating working methods (blendend learning) more often.",
+                    "develop lesson plans which are distinguished by a diversity of instruction oriented and activating working methods (blendend learning) more often."
+                ],
+                "nl": [
+                    "vaker lesplannen te maken die worden gekenmerkt door een afwisseling in aanbiedende en activerende werkvormen (blended learning).",
+                    "vaker lesplannen te maken die worden gekenmerkt door een afwisseling in aanbiedende en activerende werkvormen (blended learning).",
+                    "vaker lesplannen te maken die worden gekenmerkt door een afwisseling in aanbiedende en activerende werkvormen (blended learning)."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that your lesson plans are distinguished by an adequate diversity of methods (blendend learning) emphasizing an activating working methods.",
+                    "ensure that your lesson plans are distinguished by an adequate diversity of methods (blendend learning) emphasizing an activating working methods.",
+                    "ensure that your lesson plans are distinguished by an adequate diversity of methods (blendend learning) emphasizing an activating working methods."
+                ],
+                "nl": [
+                    "er voor te zorgen dat de lesplannen gekenmerkt worden door een adequate afwisseling in werkvormen (blended learning) met de nadruk op een activerende didactiek.",
+                    "er voor te zorgen dat de lesplannen gekenmerkt worden door een adequate afwisseling in werkvormen (blended learning) met de nadruk op een activerende didactiek.",
+                    "er voor te zorgen dat de lesplannen gekenmerkt worden door een adequate afwisseling in werkvormen (blended learning) met de nadruk op een activerende didactiek."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Develop lesson plans which are distinguished by a diversity of methods emphasizing an activating working methods.",
+                    "Develop lesson plans which are distinguished by a diversity of methods emphasizing an activating working methods.",
+                    "Develop lesson plans which are distinguished by a diversity of methods emphasizing an activating working methods."
+                ],
+                "nl": [
+                    "Develop lesson plans which are distinguished by a diversity of methods emphasizing an activating working methods.",
+                    "Develop lesson plans which are distinguished by a diversity of methods emphasizing an activating working methods.",
+                    "Develop lesson plans which are distinguished by a diversity of methods emphasizing an activating working methods."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "more activeley seek solutions aimed at taking the differences between students at a group level into account.",
+                    "more activeley seek solutions aimed at taking the differences between students at a group level into account.",
+                    "more activeley seek solutions aimed at taking the differences between students at a group level into account."
+                ],
+                "nl": [
+                    "actiever op zoek te gaan naar oplossingen gericht op het beter rekening houden met de verschillen tussen leerlingen op groepsniveau.",
+                    "actiever op zoek te gaan naar oplossingen gericht op het beter rekening houden met de verschillen tussen leerlingen op groepsniveau.",
+                    "actiever op zoek te gaan naar oplossingen gericht op het beter rekening houden met de verschillen tussen leerlingen op groepsniveau."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "more often take the differences between students into consideration by choosing tbrush-up activities and enrichment activities at the class level and and applying ICT-applications and content.",
+                    "more often take the differences between students into consideration by choosing tbrush-up activities and enrichment activities at the class level and and applying ICT-applications and content.",
+                    "more often take the differences between students into consideration by choosing tbrush-up activities and enrichment activities at the class level and and applying ICT-applications and content."
+                ],
+                "nl": [
+                    "meer rekening te houden met verschillen tussen leerlingen door toegesneden bijspijkeractiviteiten en verrijkingsoefeningen op groepsniveau te kiezen en gebruik te maken van ICT-toepassingen en content.",
+                    "meer rekening te houden met verschillen tussen leerlingen door toegesneden bijspijkeractiviteiten en verrijkingsoefeningen op groepsniveau te kiezen en gebruik te maken van ICT-toepassingen en content.",
+                    "meer rekening te houden met verschillen tussen leerlingen door toegesneden bijspijkeractiviteiten en verrijkingsoefeningen op groepsniveau te kiezen en gebruik te maken van ICT-toepassingen en content."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "let individual students work at their own level more often by choosing appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with adaptive systems) at their own place and own pace.",
+                    "let individual students work at their own level more often by choosing appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with adaptive systems) at their own place and own pace.",
+                    "let individual students work at their own level more often by choosing appropriate brush-up activities and enrichment exercises applicatons that they can carry out (among other things with adaptive systems) at their own place and own pace."
+                ],
+                "nl": [
+                    "individuele leerlingen vaker op eigen niveau te laten werken door voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen te kiezen die ze o.a. door het gebruikmaak adaptieve systemen op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren.",
+                    "individuele leerlingen vaker op eigen niveau te laten werken door voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen te kiezen die ze o.a. door het gebruikmaak adaptieve systemen op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren.",
+                    "individuele leerlingen vaker op eigen niveau te laten werken door voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen te kiezen die ze o.a. door het gebruikmaak adaptieve systemen op eigen plaats en tijd in hun eigen tempo kunnen uitvoeren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA3",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Let individual students work at their own level as much as possible and choose appropriate brush-up activities and additional exercises for them (with adaptive systems).",
+                    "Let individual students work at their own level as much as possible and choose appropriate brush-up activities and additional exercises for them (with adaptive systems).",
+                    "Let individual students work at their own level as much as possible and choose appropriate brush-up activities and additional exercises for them (with adaptive systems)."
+                ],
+                "nl": [
+                    "Laat individuele leerlingen zoveel mogelijk op eigen niveau werken en kies voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen (met behulp van adaptieve systemen).",
+                    "Laat individuele leerlingen zoveel mogelijk op eigen niveau werken en kies voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen (met behulp van adaptieve systemen).",
+                    "Laat individuele leerlingen zoveel mogelijk op eigen niveau werken en kies voor hen gepaste bijspijkeractiviteiten en verrijkingoefeningen (met behulp van adaptieve systemen)."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "execute the planned learning activities more effectively: within the allocated time, asso stimulate online learning activities and respond more flexibly to classroom events.",
+                    "execute the planned learning activities more effectively: within the allocated time, asso stimulate online learning activities and respond more flexibly to classroom events.",
+                    "execute the planned learning activities more effectively: within the allocated time, asso stimulate online learning activities and respond more flexibly to classroom events."
+                ],
+                "nl": [
+                    "de geplande leeractiviteiten doelmatiger uit te voeren: binnen de lestijd, stimuleer vaker online leeractiviteiten en reageer flexibeler op gebeurtenissen in de les. ",
+                    "de geplande leeractiviteiten doelmatiger uit te voeren: binnen de lestijd, stimuleer vaker online leeractiviteiten en reageer flexibeler op gebeurtenissen in de les. ",
+                    "de geplande leeractiviteiten doelmatiger uit te voeren: binnen de lestijd, stimuleer vaker online leeractiviteiten en reageer flexibeler op gebeurtenissen in de les. "
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "explicate the phases of the lesson at the start of the lesson more often.",
+                    "explicate the phases of the lesson at the start of the lesson more often.",
+                    "explicate the phases of the lesson at the start of the lesson more often."
+                ],
+                "nl": [
+                    "vaker de lesfasen aan het begin van de les te expliciteren.",
+                    "vaker de lesfasen aan het begin van de les te expliciteren.",
+                    "vaker de lesfasen aan het begin van de les te expliciteren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "Explicate the phases of the lesson through the whole lesson more oven. ",
+                    "Explicate the phases of the lesson through the whole lesson more oven. ",
+                    "Explicate the phases of the lesson through the whole lesson more oven. "
+                ],
+                "nl": [
+                    "vaker de lesfasen gedurende de gehele les te explicteren.",
+                    "vaker de lesfasen gedurende de gehele les te explicteren.",
+                    "vaker de lesfasen gedurende de gehele les te explicteren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Effectively executes the planned learning activities within the allocated time. Gives clear instructions and explicates the phases of the lesson through the lesson.",
+                    "Effectively executes the planned learning activities within the allocated time. Gives clear instructions and explicates the phases of the lesson through the lesson.",
+                    "Effectively executes the planned learning activities within the allocated time. Gives clear instructions and explicates the phases of the lesson through the lesson."
+                ],
+                "nl": [
+                    "Effectively executes the planned learning activities within the allocated time. Gives clear instructions and explicates the phases of the lesson through the lesson.",
+                    "Effectively executes the planned learning activities within the allocated time. Gives clear instructions and explicates the phases of the lesson through the lesson.",
+                    "Effectively executes the planned learning activities within the allocated time. Gives clear instructions and explicates the phases of the lesson through the lesson."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "adapt instruction oriented and activating methods (including digital) more often in order to take into consideration the difference between students at the group level.",
+                    "adapt instruction oriented and activating methods (including digital) more often in order to take into consideration the difference between students at the group level.",
+                    "adapt instruction oriented and activating methods (including digital) more often in order to take into consideration the difference between students at the group level."
+                ],
+                "nl": [
+                    "aanbiedende en activerende werkvormen (waaronder digitaal) vaker aan te passen om zodoende beter rekening te houden met de verschillen tussen leerlingen op groepsniveau.",
+                    "aanbiedende en activerende werkvormen (waaronder digitaal) vaker aan te passen om zodoende beter rekening te houden met de verschillen tussen leerlingen op groepsniveau.",
+                    "aanbiedende en activerende werkvormen (waaronder digitaal) vaker aan te passen om zodoende beter rekening te houden met de verschillen tussen leerlingen op groepsniveau."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "vary more often between instruction oriented and activating working methods (including digital) in the lesson if the situation requires it.",
+                    "vary more often between instruction oriented and activating working methods (including digital) in the lesson if the situation requires it.",
+                    "vary more often between instruction oriented and activating working methods (including digital) in the lesson if the situation requires it."
+                ],
+                "nl": [
+                    "vaker te vari\u00ebren in het gebruik van aanbiedende en activerende werkvormen (waaronder digitaal) als de lessituatie hier om vraagt.",
+                    "vaker te vari\u00ebren in het gebruik van aanbiedende en activerende werkvormen (waaronder digitaal) als de lessituatie hier om vraagt.",
+                    "vaker te vari\u00ebren in het gebruik van aanbiedende en activerende werkvormen (waaronder digitaal) als de lessituatie hier om vraagt."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that you posses a wide range of adequate learning activities which you can implement depending on the situation and where the students are a decisive factor for this implementation.",
+                    "ensure that you posses a wide range of adequate learning activities which you can implement depending on the situation and where the students are a decisive factor for this implementation.",
+                    "ensure that you posses a wide range of adequate learning activities which you can implement depending on the situation and where the students are a decisive factor for this implementation."
+                ],
+                "nl": [
+                    "er voor te zorgen dat je over over een breed scala van adequate leeractiviteiten beschikt die je afhankelijk van de situatie in kan zetten, de leerlingen zijn hierin een mede bepalende factor.",
+                    "er voor te zorgen dat je over over een breed scala van adequate leeractiviteiten beschikt die je afhankelijk van de situatie in kan zetten, de leerlingen zijn hierin een mede bepalende factor.",
+                    "er voor te zorgen dat je over over een breed scala van adequate leeractiviteiten beschikt die je afhankelijk van de situatie in kan zetten, de leerlingen zijn hierin een mede bepalende factor."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Posses a wide range of adequate learning activities which are implemented depending on the situation and where the students are a decisive factor for this implementation.",
+                    "Posses a wide range of adequate learning activities which are implemented depending on the situation and where the students are a decisive factor for this implementation.",
+                    "Posses a wide range of adequate learning activities which are implemented depending on the situation and where the students are a decisive factor for this implementation."
+                ],
+                "nl": [
+                    "Posses a wide range of adequate learning activities which are implemented depending on the situation and where the students are a decisive factor for this implementation.",
+                    "Posses a wide range of adequate learning activities which are implemented depending on the situation and where the students are a decisive factor for this implementation.",
+                    "Posses a wide range of adequate learning activities which are implemented depending on the situation and where the students are a decisive factor for this implementation."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "occasionally give students the opportunity to choose their own learning activities. ",
+                    "occasionally give students the opportunity to choose their own learning activities. ",
+                    "occasionally give students the opportunity to choose their own learning activities. "
+                ],
+                "nl": [
+                    "leerlingen zo nu en dan de gelegenheid te bieden om hun eigen leeractiviteiten te kiezen.",
+                    "leerlingen zo nu en dan de gelegenheid te bieden om hun eigen leeractiviteiten te kiezen.",
+                    "leerlingen zo nu en dan de gelegenheid te bieden om hun eigen leeractiviteiten te kiezen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "give students more opportunities to choose their own learning activities. ",
+                    "give students more opportunities to choose their own learning activities. ",
+                    "give students more opportunities to choose their own learning activities. "
+                ],
+                "nl": [
+                    "leerlingen vaker de gelegenheid te bieden om hun eigen leeractiviteiten te kiezen.",
+                    "leerlingen vaker de gelegenheid te bieden om hun eigen leeractiviteiten te kiezen.",
+                    "leerlingen vaker de gelegenheid te bieden om hun eigen leeractiviteiten te kiezen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "stimulate students to choose their own learning activities (among other things with ICT-applications).",
+                    "stimulate students to choose their own learning activities (among other things with ICT-applications).",
+                    "stimulate students to choose their own learning activities (among other things with ICT-applications)."
+                ],
+                "nl": [
+                    "leerlingen vaker te stimuleren, onder andere door middel van ICT, om hun eigen leeractiviteiten kiezen.",
+                    "leerlingen vaker te stimuleren, onder andere door middel van ICT, om hun eigen leeractiviteiten kiezen.",
+                    "leerlingen vaker te stimuleren, onder andere door middel van ICT, om hun eigen leeractiviteiten kiezen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Stimulates students choosing their own learning activities.",
+                    "Stimulates students choosing their own learning activities.",
+                    "Stimulates students choosing their own learning activities."
+                ],
+                "nl": [
+                    "Stimulates students choosing their own learning activities.",
+                    "Stimulates students choosing their own learning activities.",
+                    "Stimulates students choosing their own learning activities."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "explain the relationship between the learning goals and the learning activities (offline and online) at the beginning of the lesson more often.",
+                    "explain the relationship between the learning goals and the learning activities (offline and online) at the beginning of the lesson more often.",
+                    "explain the relationship between the learning goals and the learning activities (offline and online) at the beginning of the lesson more often."
+                ],
+                "nl": [
+                    "de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) vaker te expliciteren aan het begin van de les. ",
+                    "de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) vaker te expliciteren aan het begin van de les. ",
+                    "de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) vaker te expliciteren aan het begin van de les. "
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "explain the relationship between the learning goals and the learning activities (offline and online) not only at the beginning but also at end of the lesson.",
+                    "explain the relationship between the learning goals and the learning activities (offline and online) not only at the beginning but also at end of the lesson.",
+                    "explain the relationship between the learning goals and the learning activities (offline and online) not only at the beginning but also at end of the lesson."
+                ],
+                "nl": [
+                    "de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) niet alleen aan het begin van de les te expliciteren maar ook aan het einde van de les.",
+                    "de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) niet alleen aan het begin van de les te expliciteren maar ook aan het einde van de les.",
+                    "de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) niet alleen aan het begin van de les te expliciteren maar ook aan het einde van de les."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that you explain the relationship between the learning goals and the learning activities (offline and online) in every phase of the lesson.",
+                    "ensure that you explain the relationship between the learning goals and the learning activities (offline and online) in every phase of the lesson.",
+                    "ensure that you explain the relationship between the learning goals and the learning activities (offline and online) in every phase of the lesson."
+                ],
+                "nl": [
+                    "er voor te zorgen dat je de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) expliciteert bij elke lesfase.",
+                    "er voor te zorgen dat je de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) expliciteert bij elke lesfase.",
+                    "er voor te zorgen dat je de relatie tussen de leerdoelen en de leeractiviteiten (offline en online) expliciteert bij elke lesfase."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA4",
+            "PerformanceIndicator": "WATCHME_PI4",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Explain the relationship between the learning goals and the learning activities in every phase of the lesson.",
+                    "Explain the relationship between the learning goals and the learning activities in every phase of the lesson.",
+                    "Explain the relationship between the learning goals and the learning activities in every phase of the lesson."
+                ],
+                "nl": [
+                    "Explain the relationship between the learning goals and the learning activities in every phase of the lesson.",
+                    "Explain the relationship between the learning goals and the learning activities in every phase of the lesson.",
+                    "Explain the relationship between the learning goals and the learning activities in every phase of the lesson."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "be more aware of and accordingly adjust shortcomings of existing tests (incl. corrections sheets) and also explore the possiblities of digital testing.",
+                    "be more aware of and accordingly adjust shortcomings of existing tests (incl. corrections sheets) and also explore the possiblities of digital testing.",
+                    "be more aware of and accordingly adjust shortcomings of existing tests (incl. corrections sheets) and also explore the possiblities of digital testing."
+                ],
+                "nl": [
+                    "je meer bewust te zijn van de tekorten van bestaande toetsen (incl. correctiemodel) pas deze vaker op onderdelen aan en verken ook de mogelijkheid van digitale toetsen.",
+                    "je meer bewust te zijn van de tekorten van bestaande toetsen (incl. correctiemodel) pas deze vaker op onderdelen aan en verken ook de mogelijkheid van digitale toetsen.",
+                    "je meer bewust te zijn van de tekorten van bestaande toetsen (incl. correctiemodel) pas deze vaker op onderdelen aan en verken ook de mogelijkheid van digitale toetsen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "check more often when existing tests and digital testing systems are inadequate and design new tests (incl. correction sheets).",
+                    "check more often when existing tests and digital testing systems are inadequate and design new tests (incl. correction sheets).",
+                    "check more often when existing tests and digital testing systems are inadequate and design new tests (incl. correction sheets)."
+                ],
+                "nl": [
+                    "vaker te controleren of bestaande toetsen en digitale toetssytemen ontoereikend zijn en ontwerp hiervoor een nieuwe toetsen (incl. correctiemodel).",
+                    "vaker te controleren of bestaande toetsen en digitale toetssytemen ontoereikend zijn en ontwerp hiervoor een nieuwe toetsen (incl. correctiemodel).",
+                    "vaker te controleren of bestaande toetsen en digitale toetssytemen ontoereikend zijn en ontwerp hiervoor een nieuwe toetsen (incl. correctiemodel)."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "check more often if the quality of the (redesigned) tests has improved.",
+                    "check more often if the quality of the (redesigned) tests has improved.",
+                    "check more often if the quality of the (redesigned) tests has improved."
+                ],
+                "nl": [
+                    "vaker te controleren of de kwaliteit van de (herontworpen) toetsen is toegenomen.",
+                    "vaker te controleren of de kwaliteit van de (herontworpen) toetsen is toegenomen.",
+                    "vaker te controleren of de kwaliteit van de (herontworpen) toetsen is toegenomen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Know when existing tests are inadequate and designs new tests (incl. correction sheets). Additionally, check if the quality of the test has improved.",
+                    "Know when existing tests are inadequate and designs new tests (incl. correction sheets). Additionally, check if the quality of the test has improved.",
+                    "Know when existing tests are inadequate and designs new tests (incl. correction sheets). Additionally, check if the quality of the test has improved."
+                ],
+                "nl": [
+                    "Know when existing tests are inadequate and designs new tests (incl. correction sheets). Additionally, check if the quality of the test has improved.",
+                    "Know when existing tests are inadequate and designs new tests (incl. correction sheets). Additionally, check if the quality of the test has improved.",
+                    "Know when existing tests are inadequate and designs new tests (incl. correction sheets). Additionally, check if the quality of the test has improved."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "interpret the obtained test results more often and adjust, if required, the grades accordingly.",
+                    "interpret the obtained test results more often and adjust, if required, the grades accordingly.",
+                    "interpret the obtained test results more often and adjust, if required, the grades accordingly."
+                ],
+                "nl": [
+                    "vaker de de behaalde toetsresultaten te interpreteren en, indien nodig, de cijfers aan te passen.",
+                    "vaker de de behaalde toetsresultaten te interpreteren en, indien nodig, de cijfers aan te passen.",
+                    "vaker de de behaalde toetsresultaten te interpreteren en, indien nodig, de cijfers aan te passen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "regularly interpret the obtained test results and provide suggestions for improvement if required.",
+                    "regularly interpret the obtained test results and provide suggestions for improvement if required.",
+                    "regularly interpret the obtained test results and provide suggestions for improvement if required."
+                ],
+                "nl": [
+                    "regelmatig de behaalde toetsresultaten te controleren en, indien nodig, met suggesties ter verbetering te komen.",
+                    "regelmatig de behaalde toetsresultaten te controleren en, indien nodig, met suggesties ter verbetering te komen.",
+                    "regelmatig de behaalde toetsresultaten te controleren en, indien nodig, met suggesties ter verbetering te komen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "more systematically check the reliability and validity of the tests (incl. correction sheets) and and offer suggestions for improvement if required.",
+                    "more systematically check the reliability and validity of the tests (incl. correction sheets) and and offer suggestions for improvement if required.",
+                    "more systematically check the reliability and validity of the tests (incl. correction sheets) and and offer suggestions for improvement if required."
+                ],
+                "nl": [
+                    "systematischer de betrouwbaarheid en validiteit van de toetsen (incl. correctiemodel) te controleren en, indien nodig, met suggesties ter verbetering te komen.",
+                    "systematischer de betrouwbaarheid en validiteit van de toetsen (incl. correctiemodel) te controleren en, indien nodig, met suggesties ter verbetering te komen.",
+                    "systematischer de betrouwbaarheid en validiteit van de toetsen (incl. correctiemodel) te controleren en, indien nodig, met suggesties ter verbetering te komen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Check systematically the reliability and validity of the tests (incl. correction sheets) and offers suggestions for improvement.",
+                    "Check systematically the reliability and validity of the tests (incl. correction sheets) and offers suggestions for improvement.",
+                    "Check systematically the reliability and validity of the tests (incl. correction sheets) and offers suggestions for improvement."
+                ],
+                "nl": [
+                    "Check systematically the reliability and validity of the tests (incl. correction sheets) and offers suggestions for improvement.",
+                    "Check systematically the reliability and validity of the tests (incl. correction sheets) and offers suggestions for improvement.",
+                    "Check systematically the reliability and validity of the tests (incl. correction sheets) and offers suggestions for improvement."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "use of a variety of evaluation forms which mainly serve as evaluation instrument.",
+                    "use of a variety of evaluation forms which mainly serve as evaluation instrument.",
+                    "use of a variety of evaluation forms which mainly serve as evaluation instrument."
+                ],
+                "nl": [
+                    "een vari\u00ebteit aan evaluatievormen te gebruiken die vooral als beoordelingsinstrument dienen.",
+                    "een vari\u00ebteit aan evaluatievormen te gebruiken die vooral als beoordelingsinstrument dienen.",
+                    "een vari\u00ebteit aan evaluatievormen te gebruiken die vooral als beoordelingsinstrument dienen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "use different evaluation (incl. digital) forms as assessment instrument and, where relevant, as diagnosis instrument to promote the learning of students and self-learning.",
+                    "use different evaluation (incl. digital) forms as assessment instrument and, where relevant, as diagnosis instrument to promote the learning of students and self-learning.",
+                    "use different evaluation (incl. digital) forms as assessment instrument and, where relevant, as diagnosis instrument to promote the learning of students and self-learning."
+                ],
+                "nl": [
+                    "verschillende (waaronder digitale) evaluatievormen als beoordelingsinstrument te gebruiken en, waar relevant, als diagnose-instrument t.b.v. het eigen onderwijs in te zetten.",
+                    "verschillende (waaronder digitale) evaluatievormen als beoordelingsinstrument te gebruiken en, waar relevant, als diagnose-instrument t.b.v. het eigen onderwijs in te zetten.",
+                    "verschillende (waaronder digitale) evaluatievormen als beoordelingsinstrument te gebruiken en, waar relevant, als diagnose-instrument t.b.v. het eigen onderwijs in te zetten."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "integrate different types of evaluation (including digital testing) forms to promote the learning of students and self learning.",
+                    "integrate different types of evaluation (including digital testing) forms to promote the learning of students and self learning.",
+                    "integrate different types of evaluation (including digital testing) forms to promote the learning of students and self learning."
+                ],
+                "nl": [
+                    "allerhande evaluatievormen (ook digitaal toesten) te integreren t.b.v. het leren van leerlingen en het eigen onderwijs en voor formatieve en\/of summatieve toetsing.",
+                    "allerhande evaluatievormen (ook digitaal toesten) te integreren t.b.v. het leren van leerlingen en het eigen onderwijs en voor formatieve en\/of summatieve toetsing.",
+                    "allerhande evaluatievormen (ook digitaal toesten) te integreren t.b.v. het leren van leerlingen en het eigen onderwijs en voor formatieve en\/of summatieve toetsing."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA5",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Integrate different types of evaluation forms to promote the learning of students and self learning. Adequately apply ICT-applications for rating different types of evaluation forms to promote the learning of students and for self learning.",
+                    "Integrate different types of evaluation forms to promote the learning of students and self learning. Adequately apply ICT-applications for rating different types of evaluation forms to promote the learning of students and for self learning.",
+                    "Integrate different types of evaluation forms to promote the learning of students and self learning. Adequately apply ICT-applications for rating different types of evaluation forms to promote the learning of students and for self learning."
+                ],
+                "nl": [
+                    "Integreer allerhande evaluatievormen t.b.v. het leren van leerlingen en het eigen onderwijs en voor formatieve en\/of summatieve toetsing maakt de docent adequaat gebruik van ICT.",
+                    "Integreer allerhande evaluatievormen t.b.v. het leren van leerlingen en het eigen onderwijs en voor formatieve en\/of summatieve toetsing maakt de docent adequaat gebruik van ICT.",
+                    "Integreer allerhande evaluatievormen t.b.v. het leren van leerlingen en het eigen onderwijs en voor formatieve en\/of summatieve toetsing maakt de docent adequaat gebruik van ICT."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "show more interest in what moves and motivates the students.",
+                    "show more interest in what moves and motivates the students.",
+                    "show more interest in what moves and motivates the students."
+                ],
+                "nl": [
+                    "meer interesse te tonen in wat de leerlingen beweegt en motiveert.",
+                    "meer interesse te tonen in wat de leerlingen beweegt en motiveert.",
+                    "meer interesse te tonen in wat de leerlingen beweegt en motiveert."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "gain more insight into relevant background information of most students and how this relates to what moves and motivates them.",
+                    "gain more insight into relevant background information of most students and how this relates to what moves and motivates them.",
+                    "gain more insight into relevant background information of most students and how this relates to what moves and motivates them."
+                ],
+                "nl": [
+                    "meer inzicht in relevante achtergrondkenmerken van de meeste leerlingen te verkrijgen te dit te relateren en wat hen beweegt en motiveert.",
+                    "meer inzicht in relevante achtergrondkenmerken van de meeste leerlingen te verkrijgen te dit te relateren en wat hen beweegt en motiveert.",
+                    "meer inzicht in relevante achtergrondkenmerken van de meeste leerlingen te verkrijgen te dit te relateren en wat hen beweegt en motiveert."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "build a good relationship with students, individuals and the group as a whole, by showing a permanent interest in them.",
+                    "build a good relationship with students, individuals and the group as a whole, by showing a permanent interest in them.",
+                    "build a good relationship with students, individuals and the group as a whole, by showing a permanent interest in them."
+                ],
+                "nl": [
+                    "een goede relatie met de leerlingen, individueel en als groep, op te bouwen door een permanente interesse in hen te tonen.",
+                    "een goede relatie met de leerlingen, individueel en als groep, op te bouwen door een permanente interesse in hen te tonen.",
+                    "een goede relatie met de leerlingen, individueel en als groep, op te bouwen door een permanente interesse in hen te tonen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Be able to build a good relationship with students, individuals and the group as a whole as a result of being permanently interested in them.",
+                    "Be able to build a good relationship with students, individuals and the group as a whole as a result of being permanently interested in them.",
+                    "Be able to build a good relationship with students, individuals and the group as a whole as a result of being permanently interested in them."
+                ],
+                "nl": [
+                    "Be able to build a good relationship with students, individuals and the group as a whole as a result of being permanently interested in them.",
+                    "Be able to build a good relationship with students, individuals and the group as a whole as a result of being permanently interested in them.",
+                    "Be able to build a good relationship with students, individuals and the group as a whole as a result of being permanently interested in them."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "provide students more possibilities to come up with own initiatives.",
+                    "provide students more possibilities to come up with own initiatives.",
+                    "provide students more possibilities to come up with own initiatives."
+                ],
+                "nl": [
+                    "leerlingen meer mogelijkheden te bieden om met eigen initiatieven te komen.",
+                    "leerlingen meer mogelijkheden te bieden om met eigen initiatieven te komen.",
+                    "leerlingen meer mogelijkheden te bieden om met eigen initiatieven te komen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "let students regularly come up with own initiatives and so now and then make use of this.",
+                    "let students regularly come up with own initiatives and so now and then make use of this.",
+                    "let students regularly come up with own initiatives and so now and then make use of this."
+                ],
+                "nl": [
+                    "leerlingen regelmatig met eigen initiatieven te laten komen en maakt hier zo nu en dan gebruik van.",
+                    "leerlingen regelmatig met eigen initiatieven te laten komen en maakt hier zo nu en dan gebruik van.",
+                    "leerlingen regelmatig met eigen initiatieven te laten komen en maakt hier zo nu en dan gebruik van."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "stimulate students more to come with own initiatives and decide, in consultation with them, if they will be made use of.",
+                    "stimulate students more to come with own initiatives and decide, in consultation with them, if they will be made use of.",
+                    "stimulate students more to come with own initiatives and decide, in consultation with them, if they will be made use of."
+                ],
+                "nl": [
+                    "leerlingen meer te stimuleren om met eigen initiatieven te komen en besluit je in samenspraak met de leerlingen of hier gebruik van gemaakt wordt.",
+                    "leerlingen meer te stimuleren om met eigen initiatieven te komen en besluit je in samenspraak met de leerlingen of hier gebruik van gemaakt wordt.",
+                    "leerlingen meer te stimuleren om met eigen initiatieven te komen en besluit je in samenspraak met de leerlingen of hier gebruik van gemaakt wordt."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Stimulate students to come with own initiatives and decides, in consultation with the students, if they will be made use of. ",
+                    "Stimulate students to come with own initiatives and decides, in consultation with the students, if they will be made use of. ",
+                    "Stimulate students to come with own initiatives and decides, in consultation with the students, if they will be made use of. "
+                ],
+                "nl": [
+                    "Stimulate students to come with own initiatives and decides, in consultation with the students, if they will be made use of.",
+                    "Stimulate students to come with own initiatives and decides, in consultation with the students, if they will be made use of.",
+                    "Stimulate students to come with own initiatives and decides, in consultation with the students, if they will be made use of."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "have more eye for how different (groups of) students interact with each other and play into this to more often.",
+                    "have more eye for how different (groups of) students interact with each other and play into this to more often.",
+                    "have more eye for how different (groups of) students interact with each other and play into this to more often."
+                ],
+                "nl": [
+                    "meer oog te hebben voor hoe verschillende (groepen) leerlingen met elkaar omgaan en kan speel hier vaker op in.",
+                    "meer oog te hebben voor hoe verschillende (groepen) leerlingen met elkaar omgaan en kan speel hier vaker op in.",
+                    "meer oog te hebben voor hoe verschillende (groepen) leerlingen met elkaar omgaan en kan speel hier vaker op in."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "gain more insight into where most students are within the social structure of the group and regularly play into this.",
+                    "gain more insight into where most students are within the social structure of the group and regularly play into this.",
+                    "gain more insight into where most students are within the social structure of the group and regularly play into this."
+                ],
+                "nl": [
+                    "meer inzicht te verkrijgen in welke plaats de leerlingen in de sociale structuur van de groep innemen en speel hier regelmatig op in.",
+                    "meer inzicht te verkrijgen in welke plaats de leerlingen in de sociale structuur van de groep innemen en speel hier regelmatig op in.",
+                    "meer inzicht te verkrijgen in welke plaats de leerlingen in de sociale structuur van de groep innemen en speel hier regelmatig op in."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that you have a better insight into the social relationships within the group, your own role within this group, and more flexibly play into this.",
+                    "ensure that you have a better insight into the social relationships within the group, your own role within this group, and more flexibly play into this.",
+                    "ensure that you have a better insight into the social relationships within the group, your own role within this group, and more flexibly play into this."
+                ],
+                "nl": [
+                    "er voor te zorgen dat je een better inzicht in de sociale verhoudingen in de groep en je eigen rol hierbinnen hebt en speel hier op een flexibelere wijze op in.",
+                    "er voor te zorgen dat je een better inzicht in de sociale verhoudingen in de groep en je eigen rol hierbinnen hebt en speel hier op een flexibelere wijze op in.",
+                    "er voor te zorgen dat je een better inzicht in de sociale verhoudingen in de groep en je eigen rol hierbinnen hebt en speel hier op een flexibelere wijze op in."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA6",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Have a good insight into the social relationships within the group, your own role within this group, and flexibly plays into this.",
+                    "Have a good insight into the social relationships within the group, your own role within this group, and flexibly plays into this.",
+                    "Have a good insight into the social relationships within the group, your own role within this group, and flexibly plays into this."
+                ],
+                "nl": [
+                    "Have a good insight into the social relationships within the group, your own role within this group, and flexibly plays into this.",
+                    "Have a good insight into the social relationships within the group, your own role within this group, and flexibly plays into this.",
+                    "Have a good insight into the social relationships within the group, your own role within this group, and flexibly plays into this."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "check more often if you communicate effectively (offline and online) and become more aware of what is happening in the class.",
+                    "check more often if you communicate effectively (offline and online) and become more aware of what is happening in the class.",
+                    "check more often if you communicate effectively (offline and online) and become more aware of what is happening in the class."
+                ],
+                "nl": [
+                    "vaker te controleren of je effectief communiceert (offline en online) en  wordt je meer bewust van hetgeen in de klas gebeurt .",
+                    "vaker te controleren of je effectief communiceert (offline en online) en  wordt je meer bewust van hetgeen in de klas gebeurt .",
+                    "vaker te controleren of je effectief communiceert (offline en online) en  wordt je meer bewust van hetgeen in de klas gebeurt ."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "ensure that you communicate well on a content level and a relational level offline as well as online.",
+                    "ensure that you communicate well on a content level and a relational level offline as well as online.",
+                    "ensure that you communicate well on a content level and a relational level offline as well as online."
+                ],
+                "nl": [
+                    "er voor te zorgen dat je effectief communiceert op inhoudsniveau en relationeel niveau zowel offline als online.",
+                    "er voor te zorgen dat je effectief communiceert op inhoudsniveau en relationeel niveau zowel offline als online.",
+                    "er voor te zorgen dat je effectief communiceert op inhoudsniveau en relationeel niveau zowel offline als online."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that the students also communicate effectively on a content level and a relational level offline as well as online.",
+                    "ensure that the students also communicate effectively on a content level and a relational level offline as well as online.",
+                    "ensure that the students also communicate effectively on a content level and a relational level offline as well as online."
+                ],
+                "nl": [
+                    "er voor te zorgen dat ook de leerlingen effectief communiceren op inhoudsniveau en relationeel niveau zowel offline als online.",
+                    "er voor te zorgen dat ook de leerlingen effectief communiceren op inhoudsniveau en relationeel niveau zowel offline als online.",
+                    "er voor te zorgen dat ook de leerlingen effectief communiceren op inhoudsniveau en relationeel niveau zowel offline als online."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "And students communicate effectively on a content level and relational level.",
+                    "And students communicate effectively on a content level and relational level.",
+                    "And students communicate effectively on a content level and relational level."
+                ],
+                "nl": [
+                    "And students communicate effectively on a content level and relational level.",
+                    "And students communicate effectively on a content level and relational level.",
+                    "And students communicate effectively on a content level and relational level."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "create a more safe (digital) classroom environment which allows for good listening and communication.",
+                    "create a more safe (digital) classroom environment which allows for good listening and communication.",
+                    "create a more safe (digital) classroom environment which allows for good listening and communication."
+                ],
+                "nl": [
+                    "een veiligere (digitale) omgeving in de klas te cre\u00ebren om goed te kunnen communiceren en te luisteren.",
+                    "een veiligere (digitale) omgeving in de klas te cre\u00ebren om goed te kunnen communiceren en te luisteren.",
+                    "een veiligere (digitale) omgeving in de klas te cre\u00ebren om goed te kunnen communiceren en te luisteren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "not only create a nice working atmosphere (also online) but also maintain it by leading and supervising and rewarding and correcting different types of behaviour.",
+                    "not only create a nice working atmosphere (also online) but also maintain it by leading and supervising and rewarding and correcting different types of behaviour.",
+                    "not only create a nice working atmosphere (also online) but also maintain it by leading and supervising and rewarding and correcting different types of behaviour."
+                ],
+                "nl": [
+                    "niet alleen een prettige werksfeer te cre\u00ebren (ook online) maar deze ook te handhaven gedrag, volgens vaste en herkenbare patronen, te leiden, begeleiden, belonen en corrigeren.",
+                    "niet alleen een prettige werksfeer te cre\u00ebren (ook online) maar deze ook te handhaven gedrag, volgens vaste en herkenbare patronen, te leiden, begeleiden, belonen en corrigeren.",
+                    "niet alleen een prettige werksfeer te cre\u00ebren (ook online) maar deze ook te handhaven gedrag, volgens vaste en herkenbare patronen, te leiden, begeleiden, belonen en corrigeren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure to uphold a good working environment in various classes (also online) by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility. ",
+                    "ensure to uphold a good working environment in various classes (also online) by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility. ",
+                    "ensure to uphold a good working environment in various classes (also online) by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility. "
+                ],
+                "nl": [
+                    "er voor te zorgen dat je een goed werkklimaat in verschillende klassen (ook online) handhaaft door met diverse intensiteit en flexibiliteit gedrag te leiden, begeleiden, belonen en corrigeren.",
+                    "er voor te zorgen dat je een goed werkklimaat in verschillende klassen (ook online) handhaaft door met diverse intensiteit en flexibiliteit gedrag te leiden, begeleiden, belonen en corrigeren.",
+                    "er voor te zorgen dat je een goed werkklimaat in verschillende klassen (ook online) handhaaft door met diverse intensiteit en flexibiliteit gedrag te leiden, begeleiden, belonen en corrigeren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Uphold a good working environment in the class by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility.",
+                    "Uphold a good working environment in the class by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility.",
+                    "Uphold a good working environment in the class by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility."
+                ],
+                "nl": [
+                    "Uphold a good working environment in the class by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility.",
+                    "Uphold a good working environment in the class by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility.",
+                    "Uphold a good working environment in the class by leading and supervising and rewarding and correcting behavior with different intensity and with flexibility."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "reward and correct students more often according to a fixed and recognizable pattern.",
+                    "reward and correct students more often according to a fixed and recognizable pattern.",
+                    "reward and correct students more often according to a fixed and recognizable pattern."
+                ],
+                "nl": [
+                    "dat je leerlingen vaker beloont en corrigeert volgens een vast en herkenbaar stramien.",
+                    "dat je leerlingen vaker beloont en corrigeert volgens een vast en herkenbaar stramien.",
+                    "dat je leerlingen vaker beloont en corrigeert volgens een vast en herkenbaar stramien."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "involve students more often when laying down behavioural norms and creating a safe (digital) environment which allows for good listening and communication.",
+                    "involve students more often when laying down behavioural norms and creating a safe (digital) environment which allows for good listening and communication.",
+                    "involve students more often when laying down behavioural norms and creating a safe (digital) environment which allows for good listening and communication."
+                ],
+                "nl": [
+                    "leerlingen meer te betrekken bij het vaststellen van gedragsnormen en het gezamenlijk van veilige (digitale) omgeving om goed te communiceren en te luisteren.",
+                    "leerlingen meer te betrekken bij het vaststellen van gedragsnormen en het gezamenlijk van veilige (digitale) omgeving om goed te communiceren en te luisteren.",
+                    "leerlingen meer te betrekken bij het vaststellen van gedragsnormen en het gezamenlijk van veilige (digitale) omgeving om goed te communiceren en te luisteren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "make students more responsible for laying down behavioural norms and for the creation of a safe (digital) environment which allows for good listening and communication. ",
+                    "make students more responsible for laying down behavioural norms and for the creation of a safe (digital) environment which allows for good listening and communication. ",
+                    "make students more responsible for laying down behavioural norms and for the creation of a safe (digital) environment which allows for good listening and communication. "
+                ],
+                "nl": [
+                    "leerlingen meer verantwoordelijk te maken voor het vaststellen van de gedragsnormen het scheppen van een veilige (digitale) omgeving waarin goed gecommuniceerd kan worden.",
+                    "leerlingen meer verantwoordelijk te maken voor het vaststellen van de gedragsnormen het scheppen van een veilige (digitale) omgeving waarin goed gecommuniceerd kan worden.",
+                    "leerlingen meer verantwoordelijk te maken voor het vaststellen van de gedragsnormen het scheppen van een veilige (digitale) omgeving waarin goed gecommuniceerd kan worden."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA7",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Make students (partly) responsible for laying down behavioural norms and for the creation of a safe (digital) environment which allows for good listening and communication. ",
+                    "Make students (partly) responsible for laying down behavioural norms and for the creation of a safe (digital) environment which allows for good listening and communication. ",
+                    "Make students (partly) responsible for laying down behavioural norms and for the creation of a safe (digital) environment which allows for good listening and communication. "
+                ],
+                "nl": [
+                    "Maak leerlingen medeverantwoordelijk voor het vaststellen van de gedragsnormen het scheppen van een veilige (digitale) omgeving voor een goede communicatie.",
+                    "Maak leerlingen medeverantwoordelijk voor het vaststellen van de gedragsnormen het scheppen van een veilige (digitale) omgeving voor een goede communicatie.",
+                    "Maak leerlingen medeverantwoordelijk voor het vaststellen van de gedragsnormen het scheppen van een veilige (digitale) omgeving voor een goede communicatie."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "acquire more insight into the development of the student as a person and possible problems associated to this.",
+                    "acquire more insight into the development of the student as a person and possible problems associated to this.",
+                    "acquire more insight into the development of the student as a person and possible problems associated to this."
+                ],
+                "nl": [
+                    "meer inzicht te verkrijgen in de ontwikkeling van de leerling als persoon en mogelijke problemen hierbij.",
+                    "meer inzicht te verkrijgen in de ontwikkeling van de leerling als persoon en mogelijke problemen hierbij.",
+                    "meer inzicht te verkrijgen in de ontwikkeling van de leerling als persoon en mogelijke problemen hierbij."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "better recognize the development of a student as a personal in individual students and the group as a whole.",
+                    "better recognize the development of a student as a personal in individual students and the group as a whole.",
+                    "better recognize the development of a student as a personal in individual students and the group as a whole."
+                ],
+                "nl": [
+                    "de ontwikkeling van de leerling als persoon bij individuele leerlingen en de groep als geheel beter te herkennen.",
+                    "de ontwikkeling van de leerling als persoon bij individuele leerlingen en de groep als geheel beter te herkennen.",
+                    "de ontwikkeling van de leerling als persoon bij individuele leerlingen en de groep als geheel beter te herkennen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that you have a good insight into the development of the student as a person at the level of the individual and the group.",
+                    "ensure that you have a good insight into the development of the student as a person at the level of the individual and the group.",
+                    "ensure that you have a good insight into the development of the student as a person at the level of the individual and the group."
+                ],
+                "nl": [
+                    "er voor te zorgen dat je goed zicht hebt op de ontwikkeling van de leerling als persoon op individueel en groepsniveau.",
+                    "er voor te zorgen dat je goed zicht hebt op de ontwikkeling van de leerling als persoon op individueel en groepsniveau.",
+                    "er voor te zorgen dat je goed zicht hebt op de ontwikkeling van de leerling als persoon op individueel en groepsniveau."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Have a good insight into the development of a student as a person at the level of the individual and the group. ",
+                    "Have a good insight into the development of a student as a person at the level of the individual and the group. ",
+                    "Have a good insight into the development of a student as a person at the level of the individual and the group. "
+                ],
+                "nl": [
+                    "Have a good insight into the development of a student as a person at the level of the individual and the group. ",
+                    "Have a good insight into the development of a student as a person at the level of the individual and the group. ",
+                    "Have a good insight into the development of a student as a person at the level of the individual and the group. "
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "pick up and supervise daily problems related to the development of the student as a person during or after the lesson more often.",
+                    "pick up and supervise daily problems related to the development of the student as a person during or after the lesson more often.",
+                    "pick up and supervise daily problems related to the development of the student as a person during or after the lesson more often."
+                ],
+                "nl": [
+                    "vaker alledaagse problemen mbt de ontwikkeling van de leerling als persoon in of na lestijd op te pakken.",
+                    "vaker alledaagse problemen mbt de ontwikkeling van de leerling als persoon in of na lestijd op te pakken.",
+                    "vaker alledaagse problemen mbt de ontwikkeling van de leerling als persoon in of na lestijd op te pakken."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "reguraly supervise the development of students as a person for individual students according to their own set of characteristics, also when it concerns daily problems.",
+                    "reguraly supervise the development of students as a person for individual students according to their own set of characteristics, also when it concerns daily problems.",
+                    "reguraly supervise the development of students as a person for individual students according to their own set of characteristics, also when it concerns daily problems."
+                ],
+                "nl": [
+                    "regelmatig individuele leerlingen in of na lestijd vanuit hun eigen kenmerken te begeleiden bij hun ontwikkeling als persoon, ook waar dit alledaagse problemen betreft.",
+                    "regelmatig individuele leerlingen in of na lestijd vanuit hun eigen kenmerken te begeleiden bij hun ontwikkeling als persoon, ook waar dit alledaagse problemen betreft.",
+                    "regelmatig individuele leerlingen in of na lestijd vanuit hun eigen kenmerken te begeleiden bij hun ontwikkeling als persoon, ook waar dit alledaagse problemen betreft."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "more systematically supervise, considering diversity and multiculturalism, students with their personal development, also when they need specialized care.",
+                    "more systematically supervise, considering diversity and multiculturalism, students with their personal development, also when they need specialized care.",
+                    "more systematically supervise, considering diversity and multiculturalism, students with their personal development, also when they need specialized care."
+                ],
+                "nl": [
+                    "systematischer leerlingen bij hun ontwikkeling als persoon te begeleiden, rekening houdend met diversiteit en multi-culturaliteit, ook als zij bijzondere zorg nodig hebben.",
+                    "systematischer leerlingen bij hun ontwikkeling als persoon te begeleiden, rekening houdend met diversiteit en multi-culturaliteit, ook als zij bijzondere zorg nodig hebben.",
+                    "systematischer leerlingen bij hun ontwikkeling als persoon te begeleiden, rekening houdend met diversiteit en multi-culturaliteit, ook als zij bijzondere zorg nodig hebben."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Be, considering diversity and multiculturalism, able to supervise students with their personal development, also when they need specialized care.",
+                    "Be, considering diversity and multiculturalism, able to supervise students with their personal development, also when they need specialized care.",
+                    "Be, considering diversity and multiculturalism, able to supervise students with their personal development, also when they need specialized care."
+                ],
+                "nl": [
+                    "Be, considering diversity and multiculturalism, able to supervise students with their personal development, also when they need specialized care.",
+                    "Be, considering diversity and multiculturalism, able to supervise students with their personal development, also when they need specialized care.",
+                    "Be, considering diversity and multiculturalism, able to supervise students with their personal development, also when they need specialized care."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "stimulate students to think about their own behavior and their personal views more often.",
+                    "stimulate students to think about their own behavior and their personal views more often.",
+                    "stimulate students to think about their own behavior and their personal views more often."
+                ],
+                "nl": [
+                    "leerlingen vaker te stimuleren om over hun eigen gedrag en opvattingen na te denken.",
+                    "leerlingen vaker te stimuleren om over hun eigen gedrag en opvattingen na te denken.",
+                    "leerlingen vaker te stimuleren om over hun eigen gedrag en opvattingen na te denken."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "initiate group discussions where students are required to critically think about and reflect on their own behavior and personal views more often.",
+                    "initiate group discussions where students are required to critically think about and reflect on their own behavior and personal views more often.",
+                    "initiate group discussions where students are required to critically think about and reflect on their own behavior and personal views more often."
+                ],
+                "nl": [
+                    "vaker groepsdiscussies te initi\u00ebren waarin leerlingen kritisch op hun eigen gedrag en opvattingen dienen te reflecteren.",
+                    "vaker groepsdiscussies te initi\u00ebren waarin leerlingen kritisch op hun eigen gedrag en opvattingen dienen te reflecteren.",
+                    "vaker groepsdiscussies te initi\u00ebren waarin leerlingen kritisch op hun eigen gedrag en opvattingen dienen te reflecteren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "stimulate students systematically to discuss their own behavior and personal views.",
+                    "stimulate students systematically to discuss their own behavior and personal views.",
+                    "stimulate students systematically to discuss their own behavior and personal views."
+                ],
+                "nl": [
+                    "leerlingen op systematische wijze te stimuleren om te discussi\u00ebren over hun eigen gedrag en opvattingen.",
+                    "leerlingen op systematische wijze te stimuleren om te discussi\u00ebren over hun eigen gedrag en opvattingen.",
+                    "leerlingen op systematische wijze te stimuleren om te discussi\u00ebren over hun eigen gedrag en opvattingen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA8",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Systematical stimulate students to discuss their own behavior and personal views.",
+                    "Systematical stimulate students to discuss their own behavior and personal views.",
+                    "Systematical stimulate students to discuss their own behavior and personal views."
+                ],
+                "nl": [
+                    "Systematical stimulate students to discuss their own behavior and personal views.",
+                    "Systematical stimulate students to discuss their own behavior and personal views.",
+                    "Systematical stimulate students to discuss their own behavior and personal views."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "gain more insight into school related tasks. ",
+                    "gain more insight into school related tasks. ",
+                    "gain more insight into school related tasks. "
+                ],
+                "nl": [
+                    "meer inzicht in de de taken in de school te verkrijgen.",
+                    "meer inzicht in de de taken in de school te verkrijgen.",
+                    "meer inzicht in de de taken in de school te verkrijgen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "gain more insight into the school and educational policy.",
+                    "gain more insight into the school and educational policy.",
+                    "gain more insight into the school and educational policy."
+                ],
+                "nl": [
+                    "meer inzicht in het school- en onderwijsbeleid te verkrijgen.",
+                    "meer inzicht in het school- en onderwijsbeleid te verkrijgen.",
+                    "meer inzicht in het school- en onderwijsbeleid te verkrijgen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "ensure that you have a keen insight into school and educational policy.",
+                    "ensure that you have a keen insight into school and educational policy.",
+                    "ensure that you have a keen insight into school and educational policy."
+                ],
+                "nl": [
+                    "je er voor te zorgen dat je een scherp inzicht verkrijgt in het school- en onderwijsbeleid.",
+                    "je er voor te zorgen dat je een scherp inzicht verkrijgt in het school- en onderwijsbeleid.",
+                    "je er voor te zorgen dat je een scherp inzicht verkrijgt in het school- en onderwijsbeleid."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Have a keen insight into school and educational policy.",
+                    "Have a keen insight into school and educational policy.",
+                    "Have a keen insight into school and educational policy."
+                ],
+                "nl": [
+                    "Have a keen insight into school and educational policy.",
+                    "Have a keen insight into school and educational policy.",
+                    "Have a keen insight into school and educational policy."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "carry out, besides the teaching activities, some cross-curriculum activities which match your own competences and the needs of the school.",
+                    "carry out, besides the teaching activities, some cross-curriculum activities which match your own competences and the needs of the school.",
+                    "carry out, besides the teaching activities, some cross-curriculum activities which match your own competences and the needs of the school."
+                ],
+                "nl": [
+                    ", naast de lestaak, ook enkele overstijgende taken passend bij de eigen bekwaamheden en de behoefte van de school uit uit te voeren.",
+                    ", naast de lestaak, ook enkele overstijgende taken passend bij de eigen bekwaamheden en de behoefte van de school uit uit te voeren.",
+                    ", naast de lestaak, ook enkele overstijgende taken passend bij de eigen bekwaamheden en de behoefte van de school uit uit te voeren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "carry out a wider range of tasks and take more responsibility over them. If necessary, you need to professionalize yourself for these tasks.",
+                    "carry out a wider range of tasks and take more responsibility over them. If necessary, you need to professionalize yourself for these tasks.",
+                    "carry out a wider range of tasks and take more responsibility over them. If necessary, you need to professionalize yourself for these tasks."
+                ],
+                "nl": [
+                    "een grotere vari\u00ebteit aan taken uit te voeren en dien je ook meer de eindverantwoordelijk op je te nemen. Indien nodig professionaliseer jij jezelf voor deze taken.",
+                    "een grotere vari\u00ebteit aan taken uit te voeren en dien je ook meer de eindverantwoordelijk op je te nemen. Indien nodig professionaliseer jij jezelf voor deze taken.",
+                    "een grotere vari\u00ebteit aan taken uit te voeren en dien je ook meer de eindverantwoordelijk op je te nemen. Indien nodig professionaliseer jij jezelf voor deze taken."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "carry out a variety of tasks within but also outside of your own subject group. Furthermore, you should act more actively as a policy maker for subject, team and cross-curricular related matters.",
+                    "carry out a variety of tasks within but also outside of your own subject group. Furthermore, you should act more actively as a policy maker for subject, team and cross-curricular related matters.",
+                    "carry out a variety of tasks within but also outside of your own subject group. Furthermore, you should act more actively as a policy maker for subject, team and cross-curricular related matters."
+                ],
+                "nl": [
+                    "een vari\u00ebteit aan taken uit binnen maar  ook buiten het eigen vakcluster uit te voeren. Tevens dien je actiever betrokken te zijn bij de beleidsvorming ten aanzien van vak-, team- en schooloverstijgende zaken.",
+                    "een vari\u00ebteit aan taken uit binnen maar  ook buiten het eigen vakcluster uit te voeren. Tevens dien je actiever betrokken te zijn bij de beleidsvorming ten aanzien van vak-, team- en schooloverstijgende zaken.",
+                    "een vari\u00ebteit aan taken uit binnen maar  ook buiten het eigen vakcluster uit te voeren. Tevens dien je actiever betrokken te zijn bij de beleidsvorming ten aanzien van vak-, team- en schooloverstijgende zaken."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Carry out a variety of tasks within and outside of your own subject group and\/or is a policy maker for subject, team and extra curricular related matters. ",
+                    "Carry out a variety of tasks within and outside of your own subject group and\/or is a policy maker for subject, team and extra curricular related matters. ",
+                    "Carry out a variety of tasks within and outside of your own subject group and\/or is a policy maker for subject, team and extra curricular related matters. "
+                ],
+                "nl": [
+                    "Carry out a variety of tasks within and outside of your own subject group and\/or is a policy maker for subject, team and extra curricular related matters. ",
+                    "Carry out a variety of tasks within and outside of your own subject group and\/or is a policy maker for subject, team and extra curricular related matters. ",
+                    "Carry out a variety of tasks within and outside of your own subject group and\/or is a policy maker for subject, team and extra curricular related matters. "
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "contribute more to the execution of the vision and\/or profiling of the school.",
+                    "contribute more to the execution of the vision and\/or profiling of the school.",
+                    "contribute more to the execution of the vision and\/or profiling of the school."
+                ],
+                "nl": [
+                    "meer bij te dragen aan de uitvoering van de vise en\/of profilering van de school.",
+                    "meer bij te dragen aan de uitvoering van de vise en\/of profilering van de school.",
+                    "meer bij te dragen aan de uitvoering van de vise en\/of profilering van de school."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "regularly represent the school professionally and contribute to the execution of the vision and\/or profiling of the school.",
+                    "regularly represent the school professionally and contribute to the execution of the vision and\/or profiling of the school.",
+                    "regularly represent the school professionally and contribute to the execution of the vision and\/or profiling of the school."
+                ],
+                "nl": [
+                    "regelmatig de school op professionele wijze te vertegenwoordigen en een bijdrage te leveren aan de uitvoering van de visie en\/of de profilering van de school.",
+                    "regelmatig de school op professionele wijze te vertegenwoordigen en een bijdrage te leveren aan de uitvoering van de visie en\/of de profilering van de school.",
+                    "regelmatig de school op professionele wijze te vertegenwoordigen en een bijdrage te leveren aan de uitvoering van de visie en\/of de profilering van de school."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "take more self-initiatives to improve the policy of the school in a(n) (inter)national context.",
+                    "take more self-initiatives to improve the policy of the school in a(n) (inter)national context.",
+                    "take more self-initiatives to improve the policy of the school in a(n) (inter)national context."
+                ],
+                "nl": [
+                    "meer eigen initiatieven te nemen om het beleid te verbeteren in een schoolse of (inter)nationale context.",
+                    "meer eigen initiatieven te nemen om het beleid te verbeteren in een schoolse of (inter)nationale context.",
+                    "meer eigen initiatieven te nemen om het beleid te verbeteren in een schoolse of (inter)nationale context."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA9",
+            "PerformanceIndicator": "WATCHME_PI3",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Take self initiatives to improve the policy of the school in a(n) (inter)national context.",
+                    "Take self initiatives to improve the policy of the school in a(n) (inter)national context.",
+                    "Take self initiatives to improve the policy of the school in a(n) (inter)national context."
+                ],
+                "nl": [
+                    "Neem eigen initiatieven om het beleid te verbeteren in een schoolse of (inter)nationale context.",
+                    "Neem eigen initiatieven om het beleid te verbeteren in een schoolse of (inter)nationale context.",
+                    "Neem eigen initiatieven om het beleid te verbeteren in een schoolse of (inter)nationale context."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA10",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "become more conscious of your own qualities and what this means when collaborating with others.",
+                    "become more conscious of your own qualities and what this means when collaborating with others.",
+                    "become more conscious of your own qualities and what this means when collaborating with others."
+                ],
+                "nl": [
+                    "meer bewust te zijn van de eigen kwaliteiten en wat dit betekent in de samenwerking met anderen.",
+                    "meer bewust te zijn van de eigen kwaliteiten en wat dit betekent in de samenwerking met anderen.",
+                    "meer bewust te zijn van de eigen kwaliteiten en wat dit betekent in de samenwerking met anderen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA10",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "more consciously use your qualities and for the execution of the primary teaching task and extra curricular task and become more aware of the qualities of others ",
+                    "more consciously use your qualities and for the execution of the primary teaching task and extra curricular task and become more aware of the qualities of others ",
+                    "more consciously use your qualities and for the execution of the primary teaching task and extra curricular task and become more aware of the qualities of others "
+                ],
+                "nl": [
+                    "de eigen kwaliteiten bewuster in te zetten t.b.v. het uitvoeren van primaire lestaak en vakoverstijgende taken en dien je je meer bewust te worden van de kwaliteiten van anderen.",
+                    "de eigen kwaliteiten bewuster in te zetten t.b.v. het uitvoeren van primaire lestaak en vakoverstijgende taken en dien je je meer bewust te worden van de kwaliteiten van anderen.",
+                    "de eigen kwaliteiten bewuster in te zetten t.b.v. het uitvoeren van primaire lestaak en vakoverstijgende taken en dien je je meer bewust te worden van de kwaliteiten van anderen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA10",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "more adequately use your own qualities and those of others during different collaborative activities.",
+                    "more adequately use your own qualities and those of others during different collaborative activities.",
+                    "more adequately use your own qualities and those of others during different collaborative activities."
+                ],
+                "nl": [
+                    "de eigen kwaliteiten en die van anderen adequater in te zetten tijdens diverse samenwerkingsprocessen.",
+                    "de eigen kwaliteiten en die van anderen adequater in te zetten tijdens diverse samenwerkingsprocessen.",
+                    "de eigen kwaliteiten en die van anderen adequater in te zetten tijdens diverse samenwerkingsprocessen."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA10",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Be able to adequately use your own qualities and those of others during different collaborative activities.",
+                    "Be able to adequately use your own qualities and those of others during different collaborative activities.",
+                    "Be able to adequately use your own qualities and those of others during different collaborative activities."
+                ],
+                "nl": [
+                    "Be able to adequately use your own qualities and those of others during different collaborative activities.",
+                    "Be able to adequately use your own qualities and those of others during different collaborative activities.",
+                    "Be able to adequately use your own qualities and those of others during different collaborative activities."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA10",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "initiate discussions regarding the primary teaching task more often and take more part in other types of meetings.",
+                    "initiate discussions regarding the primary teaching task more often and take more part in other types of meetings.",
+                    "initiate discussions regarding the primary teaching task more often and take more part in other types of meetings."
+                ],
+                "nl": [
+                    "vaker overleg m.b.t. de primaire lestaak te initi\u00ebren en neem je ook vaker deel aan andere vormen van overleg.",
+                    "vaker overleg m.b.t. de primaire lestaak te initi\u00ebren en neem je ook vaker deel aan andere vormen van overleg.",
+                    "vaker overleg m.b.t. de primaire lestaak te initi\u00ebren en neem je ook vaker deel aan andere vormen van overleg."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA10",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "take more constructively and actively  part in different types of meetings and discussions within the school and professionally supervise students more often.",
+                    "take more constructively and actively  part in different types of meetings and discussions within the school and professionally supervise students more often.",
+                    "take more constructively and actively  part in different types of meetings and discussions within the school and professionally supervise students more often."
+                ],
+                "nl": [
+                    "meer opbouwend en actiever deel te nemen aan verschillende vormen van overleg binnen de school en vaker leerlingen op een professionele wijze te begeleiden.",
+                    "meer opbouwend en actiever deel te nemen aan verschillende vormen van overleg binnen de school en vaker leerlingen op een professionele wijze te begeleiden.",
+                    "meer opbouwend en actiever deel te nemen aan verschillende vormen van overleg binnen de school en vaker leerlingen op een professionele wijze te begeleiden."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA10",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "more systematically initiate and take initiatives to take part in different forms of meetings in and outside of the school.",
+                    "more systematically initiate and take initiatives to take part in different forms of meetings in and outside of the school.",
+                    "more systematically initiate and take initiatives to take part in different forms of meetings in and outside of the school."
+                ],
+                "nl": [
+                    "systematischer initiatieven te nemen om deel te nemen aan verschillende vormen van overleg binnen en buiten de school en deze ook zelf te initi\u00ebren.",
+                    "systematischer initiatieven te nemen om deel te nemen aan verschillende vormen van overleg binnen en buiten de school en deze ook zelf te initi\u00ebren.",
+                    "systematischer initiatieven te nemen om deel te nemen aan verschillende vormen van overleg binnen en buiten de school en deze ook zelf te initi\u00ebren."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA10",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Systematically initiate and take initiatives to take part in different forms of meetings in and outside of the school.",
+                    "Systematically initiate and take initiatives to take part in different forms of meetings in and outside of the school.",
+                    "Systematically initiate and take initiatives to take part in different forms of meetings in and outside of the school."
+                ],
+                "nl": [
+                    "Neem uit eigen initiatief systematisch deel aan verschillende vormen van overleg buiten de school en initieer deze ook.",
+                    "Neem uit eigen initiatief systematisch deel aan verschillende vormen van overleg buiten de school en initieer deze ook.",
+                    "Neem uit eigen initiatief systematisch deel aan verschillende vormen van overleg buiten de school en initieer deze ook."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "seek more actively targeted feedback and (more) and become more aware of your behavioral patterns and it effects.",
+                    "seek more actively targeted feedback and (more) and become more aware of your behavioral patterns and it effects.",
+                    "seek more actively targeted feedback and (more) and become more aware of your behavioral patterns and it effects."
+                ],
+                "nl": [
+                    "actiever om doelgericht feedback op het eigen handelen te vragen en bewuster van eigen gedragspatronen en het effect ervan te worden.",
+                    "actiever om doelgericht feedback op het eigen handelen te vragen en bewuster van eigen gedragspatronen en het effect ervan te worden.",
+                    "actiever om doelgericht feedback op het eigen handelen te vragen en bewuster van eigen gedragspatronen en het effect ervan te worden."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "ask more systematically for feedback based on your own learning goals and take the perspectives of the organization (the school and the team) and the students more into account in your analysis.",
+                    "ask more systematically for feedback based on your own learning goals and take the perspectives of the organization (the school and the team) and the students more into account in your analysis.",
+                    "ask more systematically for feedback based on your own learning goals and take the perspectives of the organization (the school and the team) and the students more into account in your analysis."
+                ],
+                "nl": [
+                    "systematischer feedback te vragen op basis van eigen leerdoelen en in de analysis meer rekening te houden met de perspectieven van de organisatie (de school en het team) en de leerlingen. ",
+                    "systematischer feedback te vragen op basis van eigen leerdoelen en in de analysis meer rekening te houden met de perspectieven van de organisatie (de school en het team) en de leerlingen. ",
+                    "systematischer feedback te vragen op basis van eigen leerdoelen en in de analysis meer rekening te houden met de perspectieven van de organisatie (de school en het team) en de leerlingen. "
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "choose the reflection forms more depending on the situation. Futhermore, you should improve your analysis by basing on 360\u00b0 feedback, including different societal and theoretical perspectives and demonstrating the interaction between experiences and practice.",
+                    "choose the reflection forms more depending on the situation. Futhermore, you should improve your analysis by basing on 360\u00b0 feedback, including different societal and theoretical perspectives and demonstrating the interaction between experiences and practice.",
+                    "choose the reflection forms more depending on the situation. Futhermore, you should improve your analysis by basing on 360\u00b0 feedback, including different societal and theoretical perspectives and demonstrating the interaction between experiences and practice."
+                ],
+                "nl": [
+                    "de keuze voor de reflectievorm meer van de situatie af te laten hangen. Daarnaast kan de analyse nog verbeterd worden door 360\u00b0 feedback te gebruiken, verschillende maatschappelijke en theoretische perspectieven te betrekken en de wisselwerking tussen ervaringen en praktijktheorie te laten zien.",
+                    "de keuze voor de reflectievorm meer van de situatie af te laten hangen. Daarnaast kan de analyse nog verbeterd worden door 360\u00b0 feedback te gebruiken, verschillende maatschappelijke en theoretische perspectieven te betrekken en de wisselwerking tussen ervaringen en praktijktheorie te laten zien.",
+                    "de keuze voor de reflectievorm meer van de situatie af te laten hangen. Daarnaast kan de analyse nog verbeterd worden door 360\u00b0 feedback te gebruiken, verschillende maatschappelijke en theoretische perspectieven te betrekken en de wisselwerking tussen ervaringen en praktijktheorie te laten zien."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI1",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "Be able to choose different types of reflection forms depending on the situation, and organize your own 360\u00b0 feedback. Includes in your analysis different societal and theoretical perspectives and demonstrates an interactions between experience and practice.",
+                    "Be able to choose different types of reflection forms depending on the situation, and organize your own 360\u00b0 feedback. Includes in your analysis different societal and theoretical perspectives and demonstrates an interactions between experience and practice.",
+                    "Be able to choose different types of reflection forms depending on the situation, and organize your own 360\u00b0 feedback. Includes in your analysis different societal and theoretical perspectives and demonstrates an interactions between experience and practice."
+                ],
+                "nl": [
+                    "Be able to choose different types of reflection forms depending on the situation, and organize your own 360\u00b0 feedback. Includes in your analysis different societal and theoretical perspectives and demonstrates an interactions between experience and practice.",
+                    "Be able to choose different types of reflection forms depending on the situation, and organize your own 360\u00b0 feedback. Includes in your analysis different societal and theoretical perspectives and demonstrates an interactions between experience and practice.",
+                    "Be able to choose different types of reflection forms depending on the situation, and organize your own 360\u00b0 feedback. Includes in your analysis different societal and theoretical perspectives and demonstrates an interactions between experience and practice."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL1",
+            "Translations": {
+                "en": [
+                    "more activeley seek, based on the provided feedback, applicable alternatives for your professional activitie, become more aware of your own learning activities and take steps to expand them.",
+                    "more activeley seek, based on the provided feedback, applicable alternatives for your professional activitie, become more aware of your own learning activities and take steps to expand them.",
+                    "more activeley seek, based on the provided feedback, applicable alternatives for your professional activitie, become more aware of your own learning activities and take steps to expand them."
+                ],
+                "nl": [
+                    "actiever op zoek te gaan, op basis van de gegeven feedback, naar alternatieven voor het eigen professionele handelen, je bewuster te worden van de eigen leeractiviteiten en stappen te ondernemen om deze uit te breiden.",
+                    "actiever op zoek te gaan, op basis van de gegeven feedback, naar alternatieven voor het eigen professionele handelen, je bewuster te worden van de eigen leeractiviteiten en stappen te ondernemen om deze uit te breiden.",
+                    "actiever op zoek te gaan, op basis van de gegeven feedback, naar alternatieven voor het eigen professionele handelen, je bewuster te worden van de eigen leeractiviteiten en stappen te ondernemen om deze uit te breiden."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL2",
+            "Translations": {
+                "en": [
+                    "process the provided feedback more regularly in concrete follow-up activities, provide more arguments for learning activities and partially expand them.",
+                    "process the provided feedback more regularly in concrete follow-up activities, provide more arguments for learning activities and partially expand them.",
+                    "process the provided feedback more regularly in concrete follow-up activities, provide more arguments for learning activities and partially expand them."
+                ],
+                "nl": [
+                    "de gegeven feedback op een regelmatige basis te verwerken in concrete vervolgactiviteiten, je eigen leeractiviteiten beter te beargumenteren en deze gedeeltelijk uit te breiden.",
+                    "de gegeven feedback op een regelmatige basis te verwerken in concrete vervolgactiviteiten, je eigen leeractiviteiten beter te beargumenteren en deze gedeeltelijk uit te breiden.",
+                    "de gegeven feedback op een regelmatige basis te verwerken in concrete vervolgactiviteiten, je eigen leeractiviteiten beter te beargumenteren en deze gedeeltelijk uit te breiden."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL3",
+            "Translations": {
+                "en": [
+                    "become more conscious of your own learning strategies and behavioral patterns and systematically justify the strategies from multiple sources of knowledge and expand them.",
+                    "become more conscious of your own learning strategies and behavioral patterns and systematically justify the strategies from multiple sources of knowledge and expand them.",
+                    "become more conscious of your own learning strategies and behavioral patterns and systematically justify the strategies from multiple sources of knowledge and expand them."
+                ],
+                "nl": [
+                    "je meer bewust te worden van de eigen leerstrategie\u00ebn en gedragspatronen en de strategie\u00ebn op systematische wijze op basis van meerdere kennisbronnen te verantwoorden en uit te breiden.",
+                    "je meer bewust te worden van de eigen leerstrategie\u00ebn en gedragspatronen en de strategie\u00ebn op systematische wijze op basis van meerdere kennisbronnen te verantwoorden en uit te breiden.",
+                    "je meer bewust te worden van de eigen leerstrategie\u00ebn en gedragspatronen en de strategie\u00ebn op systematische wijze op basis van meerdere kennisbronnen te verantwoorden en uit te breiden."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL4",
+            "Translations": {
+                "en": [
+                    "processes the provided feedback systematically in concrete follow-up activities. ",
+                    "processes the provided feedback systematically in concrete follow-up activities. ",
+                    "processes the provided feedback systematically in concrete follow-up activities. "
+                ],
+                "nl": [
+                    "De docent verwerkt de gegeven feedback op systematische wijze in concrete vervolgactiviteiten.",
+                    "De docent verwerkt de gegeven feedback op systematische wijze in concrete vervolgactiviteiten.",
+                    "De docent verwerkt de gegeven feedback op systematische wijze in concrete vervolgactiviteiten."
+                ]
+            }
+        },
+        {
+            "EPA": "WATCHME_EPA11",
+            "PerformanceIndicator": "WATCHME_PI2",
+            "PerformanceIndicatorLevel": "WATCHME_LEVEL5",
+            "Translations": {
+                "en": [
+                    "Be able to consciously take steps for his\/her professional activities, based on his\/her self-awareness and is able to justify this from difference sources of knowledge. ",
+                    "Be able to consciously take steps for his\/her professional activities, based on his\/her self-awareness and is able to justify this from difference sources of knowledge. ",
+                    "Be able to consciously take steps for his\/her professional activities, based on his\/her self-awareness and is able to justify this from difference sources of knowledge. "
+                ],
+                "nl": [
+                    "De docent zet op basis van bekendheid met eigen het eigen professionele handelen bewust stappen en kan deze verantwoorden vanuit kennisbronnen.",
+                    "De docent zet op basis van bekendheid met eigen het eigen professionele handelen bewust stappen en kan deze verantwoorden vanuit kennisbronnen.",
+                    "De docent zet op basis van bekendheid met eigen het eigen professionele handelen bewust stappen en kan deze verantwoorden vanuit kennisbronnen."
+                ]
+            }
+        }
+    ]
+}

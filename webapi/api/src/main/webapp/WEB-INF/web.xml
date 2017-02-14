@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Project: WATCHME Consortium, http://www.project-watchme.eu/
+  ~ Creator: University of Reading, UK, http://www.reading.ac.uk/
+  ~ Creator: NetRom Software, RO, http://www.netromsoftware.ro/
+  ~ Contributor: $author, $affiliation, $country, $website
+  ~ Version: 0.1
+  ~ Date: 31/7/2015
+  ~ Copyright: Copyright (C) 2014-2017 WATCHME Consortium
+  ~ License: The MIT License (MIT)
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<!-- This web.xml file is not required when using Servlet 3.0 container,
+     see implementation details http://jersey.java.net/nonav/documentation/latest/jax-rs.html#d4e194 -->
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5">
+    <context-param>
+        <param-name>ResourcesRelativePath</param-name>
+        <param-value>${sm.server.resourcesRelativePath}</param-value>
+    </context-param>
+    <filter>
+        <filter-name>requestdumper</filter-name>
+        <filter-class>org.apache.catalina.filters.RequestDumperFilter</filter-class>
+    </filter>
+    <filter>
+        <filter-name>CorsFilter</filter-name>
+        <filter-class>org.apache.catalina.filters.CorsFilter</filter-class>
+        <init-param>
+            <param-name>cors.allowed.origins</param-name>
+            <param-value>*</param-value>
+        </init-param>
+        <init-param>
+            <param-name>cors.allowed.methods</param-name>
+            <param-value>GET,POST,PUT,DELETE</param-value>
+        </init-param>
+        <init-param>
+            <param-name>cors.allowed.headers</param-name>
+            <param-value>Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Last-Modified</param-value>
+        </init-param>
+        <init-param>
+            <param-name>cors.exposed.headers</param-name>
+            <param-value>Access-Control-Allow-Origin,Access-Control-Allow-Credentials</param-value>
+        </init-param>
+        <init-param>
+            <param-name>cors.support.credentials</param-name>
+            <param-value>true</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>CorsFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+    <filter-mapping>
+        <filter-name>requestdumper</filter-name>
+        <url-pattern>*</url-pattern>
+    </filter-mapping>
+    <servlet>
+        <servlet-name>StudentModel WebApi</servlet-name>
+        <servlet-class>eu.watchme.infrastructure.AppServletContainer</servlet-class>
+        <init-param>
+            <param-name>com.sun.jersey.config.property.packages</param-name>
+            <param-value>eu.watchme.api</param-value>
+        </init-param>
+        <init-param>
+            <param-name>com.sun.jersey.api.json.POJOMappingFeature</param-name>
+            <param-value>true</param-value>
+        </init-param>
+        <init-param>
+            <param-name>com.sun.jersey.config.property.JSPTemplatesBasePath</param-name>
+            <param-value>/WEB-INF/views/</param-value>
+        </init-param>
+        <init-param>
+            <param-name>com.sun.jersey.spi.container.ContainerRequestFilters</param-name>
+            <param-value>com.sun.jersey.api.container.filter.LoggingFilter</param-value>
+        </init-param>
+        <init-param>
+            <param-name>com.sun.jersey.spi.container.ContainerResponseFilters</param-name>
+            <param-value>com.sun.jersey.api.container.filter.LoggingFilter</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>StudentModel WebApi</servlet-name>
+        <url-pattern>/sm/*</url-pattern>
+    </servlet-mapping>
+    <listener>
+        <listener-class>eu.watchme.infrastructure.AppContextListener</listener-class>
+    </listener>
+</web-app>

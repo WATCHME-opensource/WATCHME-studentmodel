@@ -1,0 +1,38 @@
+{
+  "Improvement": {
+    "Level1": {
+      "Positive": {
+        "en": "You performed well on this task! To improve yourself you should achieve a level three (good)or four (excellent) rubric rating for all performance indicators.",
+        "nl": "Je hebt deze taak goed uitgevoerd! Om jezelf te verbeteren dien je een niveau drie (goed) of hoger (excellent) rubric beoordeling voor alle prestatie-indicatoren te behalen. "
+      },
+      "Neutral": {
+        "en": "All performance indicators are rated as sufficient. If you want to improve yourself, you should achieve a level three (good)or four (excellent) rubric rating for all performance indicators.",
+        "nl": "Alle prestatie-indicatoren zijn als voldoende beoordeeld. Als je jouw score voor deze taak wilt verbeteren, dan dien je  een niveau drie (goed) of hoger (excellent) rubric beoordeling voor alle prestatie-indicatoren te behalen."
+      },
+      "Negative": {
+        "en": "There is room for improvement on this task. To meet the minimum requirements for this task you minimally need to achieve a sufficient rubric rating all performance indicators.",
+        "nl": "Er is ruimte voor verbetering voor deze taak. Om aan de eisen voor deze taak te voldoen dienen alle prestatie-indicatoren minimaal als voldoende beoordeeld te worden."
+      }
+    },
+    "Level2": {
+      "en": "You are at level %LevelPI on \"%PI\". In order to achieve the next level, you should: \"%R\".",
+      "nl": "Je hebt niveau %LevelPI behaald voor \"%PI\". Om de score te verbeteren dien je: \"%R\"."
+    },
+    "Level2General": {
+      "en": "You are at level %LevelPI. In order to achieve the next level, you should: \"%R\".",
+      "nl": "Je hebt niveau %LevelPI behaald. Om de score te verbeteren dien je: \"%R\"."
+    }
+  },
+  "Supervisor": {
+    "Level1": {
+      "Neutral": {
+        "en": "Your supervisor provided feedback on this task.",
+        "nl": "Je begeleider heeft feedback gegeven voor deze taak."
+      }
+    },
+    "Level2": {
+      "en": "Your Supervisor commented: \"%Sff\" (%SfT)",
+      "nl": "Je begeleider gaf aan dat: \"%Sff\" (%SfT)"
+    }
+  }
+}
